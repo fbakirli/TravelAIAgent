@@ -1,0 +1,3428 @@
+[
+  {
+    "type": "vacation rental",
+    "name": "\u00dcnver Galata Apart",
+    "link": "https://www.bluepillow.com/search/5a84fd8c7c00cb0e042a3c0c?dest=bkng&cat=Apartment&lat=41.02618&lng=28.97771&language=en",
+    "property_token": "ChoQrvHlisKTk_2uARoNL2cvMTF2ejB2al81bRAC",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQrvHlisKTk_2uARoNL2cvMTF2ejB2al81bRAC&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.026180267333984,
+      "longitude": 28.977710723876953
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$63",
+      "extracted_lowest": 63
+    },
+    "total_rate": {
+      "lowest": "$190",
+      "extracted_lowest": 190
+    },
+    "prices": [
+      {
+        "source": "br.Bluepillow.com",
+        "logo": "https://www.gstatic.com/travel-hotels/branding/190ff319-d0fd-4c45-bfc8-bad6f5f395f2.png",
+        "num_guests": 2,
+        "rate_per_night": {
+          "lowest": "$63",
+          "extracted_lowest": 63
+        }
+      }
+    ],
+    "nearby_places": [
+      {
+        "name": "Kasimpasa",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "8 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "40 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 30 min"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/pgGijHXkZ60iBk7MnclKgl92ILfsJiyM8ZojfHtRFHn0X_xKbXO1GTtEAvp56N70JJOCjTTrDNCGHVNyzeyzoo-6RDyujAIKrMwI1k7tlyRX6J2x2_CW04EScnXmyum_OjfeVJulnxzBSNAdxWp7BD1t6Jxtkw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.travelapi.com/lodging/22000000/21830000/21825100/21825035/4c333061_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/a_8CC2BqQu2JKvIETINhFyGcPq83p3rjGwSAeRNS0g6XLYY48_IsmQ_2-HvTLHtamqH87z2EaM2GyIhJj9Y60ZBNSidAzLCacZQ6MpqZi9YJ6_r3OVnIZBHtFY-xpB0vCo8xgaY9egUgkwVsGRKfwHKQw7GfRA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x683/241141919.jpg?k=2ba51d2329635efd31c91d9d8e5ba5810433a8718d980ae1d4b605af3906362c&o="
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/awWNGGONg0Px_7OH8tMWib884eqsQPOye1NfiJen3N0L4mIKJb0Ycz18VwdOc0G-mQ3rZQ1-_o9rv0fqMLFroVgXanIb77o5QzXPTM03wIC9B7vc92YAc3XxP6_To1XlUIk8m_aajUlpujZ7WaA7ogCC_5xZjA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.travelapi.com/lodging/22000000/21830000/21825100/21825035/8f271ce4_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/65O-ZmWxp80iGPk4ttd7AM6Dmq80p5PJGx1PeIj-t7JZ2ihRxr_VLIHEy3tqsial4D2hknHzg4z9O432CVzhTBFjQTGCbke8nSOXdH7DZrtHk95GCDGpCekQR-gbcKSGAkjPZrKaDWWqhHlVwCQZS6SuQXotEQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.travelapi.com/lodging/22000000/21830000/21825100/21825035/1ae4353b_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/05co8Ga02Q8LtBcSrb8D3dOFdXIyD3x8f7rq5_FlT-9T0Lu4n2xiRpFeQKQNUn0JHAArwJ-YjyXAP4f1xnuVb8iLsmGbEPPh7zopezN8E8GqjTiFWwQxTTmMyxBbhROWjOhQJuNQaUuGjWbcIToqHgpW-hfTuw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.travelapi.com/lodging/22000000/21830000/21825100/21825035/15e4faca_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/LUWy5d0a1ysg3STftG8VU8mitNQx0FOXfar4tiJ1u0mZUUb7A5PVP42cByzDdSPdQmltS2Yst1WGubUpjLs-qZJleVI4F02MtLRb-XsfY2gxjb08uJB4hEzMPVrS_IOpW5MkHYcVUnGOYCJWgn_hYFUV28m9YA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.travelapi.com/lodging/22000000/21830000/21825100/21825035/ce19035f_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/HIK41X6KGzIcgiFOcOZcvLFyxkhW1VtnOYW1_WSAH-r-nfHhdNurAEvEHOyD5HJqpNWwRuh10dywUpHM5zxr_2DbT0W4WYOgmFUbDjNAcd-xukKSMRGaiT1KuBxsMjVMSbF-bhFNQIA80g5dkAactarlOnHusKs=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.travelapi.com/lodging/22000000/21830000/21825100/21825035/d38945e9_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/JfKVDrf_dYGgjQ0uRI_wa2IE--ZsZtmwbbqoQCoFzsLXj2QY7w3oWfUhFb4vP6xyXgFdrY9Rw439lsY2COkCpYUkFFIKaX46BQ1j1XucEENQJLI-2vzLxN228JmpmKrnOg8MItFXOG8JuBRHnngTh7lXlwH99w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x683/125357506.jpg?k=86e1526a1dcd91d2b9467675ff9bc454cbefe73d7adfc8ed36ea8f7120d05247&o="
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/hrsfIVBP3jr5ohPrdFXf-jp8IRj_TMo42Zle8T1zIfhOrJxIG6f2rN90cPg96yArIl1joshrqe7vn7MMTx6PF994vOU6ZgOa5BdeBH6JX8n-JMpcVFEwKQRxvjVHlgftsT1DCbj-aHiH9pX9b37rN-I9nh5Zs1M=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x683/241141915.jpg?k=737c338fa52769409d63a06d83bb703997862e36cf970b400b594dea2be526e0&o="
+      }
+    ],
+    "overall_rating": 4.95,
+    "reviews": 8,
+    "location_rating": 4.8,
+    "amenities": [
+      "Air conditioning",
+      "Kid-friendly",
+      "Crib",
+      "Elevator",
+      "Fitness center",
+      "Heating",
+      "Kitchen",
+      "Smoke-free",
+      "Cable TV",
+      "Wheelchair accessible",
+      "Free parking",
+      "Free Wi-Fi"
+    ],
+    "excluded_amenities": [
+      "No airport shuttle"
+    ],
+    "essential_info": [
+      "Entire apartment",
+      "Sleeps 12",
+      "7 bedrooms",
+      "6 bathrooms",
+      "10 beds"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Vespia Hotel",
+    "description": "Polished quarters at an unassuming hotel offering 3 restaurants, plus a spa with a gym & a hammam.",
+    "link": "http://www.vespiahotel.com.tr/",
+    "property_token": "ChkI3obn-vbprI5YGg0vZy8xMWdoNmJxZm5mEAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkI3obn-vbprI5YGg0vZy8xMWdoNmJxZm5mEAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.006406399999996,
+      "longitude": 28.6647966
+    },
+    "check_in_time": "12:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$67",
+      "extracted_lowest": 67
+    },
+    "total_rate": {
+      "lowest": "$201",
+      "extracted_lowest": 201
+    },
+    "deal": "22% less than usual",
+    "deal_description": "Deal",
+    "nearby_places": [
+      {
+        "name": "Snowpark",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "8 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "9 min"
+          }
+        ]
+      },
+      {
+        "name": "Pirin\u00e7 Sanayi Sitesi",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "4 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "43 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 39 min"
+          }
+        ]
+      },
+      {
+        "name": "Et Ovas\u0131 Beylikd\u00fcz\u00fc",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "4 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "5-star hotel",
+    "extracted_hotel_class": 5,
+    "images": [
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/0leLRDXEDRclKQJS16gFiJ5cfybHJZ_7AL4yrKG5mwxdFriaaLBEvXeuSAM2DBAONhn2VFI83yKc1v_xcxpuX2e14D7dbkpy6aTeci1JPjnIXF81HjhGAyV2AAVTcSmjEzqy-vISOfp66caL9mfvY6ySdVN3Qw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/62/629346/629346a_hb_ro_032_20251017_235727.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPbVGsErJr0NFxkwQQuI54gQlQ3GnPHAVGp7Hrf=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPbVGsErJr0NFxkwQQuI54gQlQ3GnPHAVGp7Hrf=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwIMPVKmiAJQCFbOErEL87AXGvgT_X9ubQJtuumzoMJcOKNW6KcXiMCbzrOcH01MH7y_rRrp5urh1wWXxkcdMUX9gGHD6z-DB1V6d3rCqqlxOD8DOx_QuDS-LuQBBsuov5BTfJf9w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDtmKzymgE=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNCt2PE9TXc_ssU-UAchwHuek7yjeflrs-cHHvq=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNCt2PE9TXc_ssU-UAchwHuek7yjeflrs-cHHvq=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/o1A1tR-iR7MfTzYXni9-Gx0MHb90VK5eF3tQq8Cwa43wb0OFF4NIeBjW8Jcv74FatC5Aw1l-5_USmHofNyNavaEZuxxQQ4FiSlVJvH-yvq4nVy8xaUGzCqO1g7h9gegBhdLL0cW-OWDdw5R5m6aYsIppNZViJAU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/24000000/23660000/23654900/23654862/c87f5dba_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOzZg1KvYSYCWutbHfWTW2aQdhui8ZRuxZKxNW5=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOzZg1KvYSYCWutbHfWTW2aQdhui8ZRuxZKxNW5=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOKgkkvya84f-VyD23tImDSAk2dbwrNJDDZP1Hs=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOKgkkvya84f-VyD23tImDSAk2dbwrNJDDZP1Hs=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMQRH235DDaTCFlwM6CDeHERNwUF2aHP01R8oLf=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMQRH235DDaTCFlwM6CDeHERNwUF2aHP01R8oLf=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOdY4kFkQrUPkmXTer1ec9LQttR13lRgufhxIsZ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOdY4kFkQrUPkmXTer1ec9LQttR13lRgufhxIsZ=s10000"
+      }
+    ],
+    "overall_rating": 4.8,
+    "reviews": 3982,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 3468
+      },
+      {
+        "stars": 4,
+        "count": 324
+      },
+      {
+        "stars": 3,
+        "count": 87
+      },
+      {
+        "stars": 2,
+        "count": 35
+      },
+      {
+        "stars": 1,
+        "count": 68
+      }
+    ],
+    "location_rating": 3.4,
+    "reviews_breakdown": [
+      {
+        "name": "Dining",
+        "description": "Food and Beverage",
+        "total_mentioned": 308,
+        "positive": 303,
+        "negative": 3,
+        "neutral": 2
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 1131,
+        "positive": 1092,
+        "negative": 26,
+        "neutral": 13
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 253,
+        "positive": 243,
+        "negative": 5,
+        "neutral": 5
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 581,
+        "positive": 557,
+        "negative": 10,
+        "neutral": 14
+      },
+      {
+        "name": "Bar",
+        "description": "Bar or lounge",
+        "total_mentioned": 79,
+        "positive": 75,
+        "negative": 3,
+        "neutral": 1
+      },
+      {
+        "name": "Business",
+        "description": "Business",
+        "total_mentioned": 64,
+        "positive": 56,
+        "negative": 4,
+        "neutral": 4
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "JW Marriott Hotel Istanbul Marmara Sea",
+    "description": "Refined quarters, some with sea views, in a premium hotel offering restaurants, a spa & pools.",
+    "link": "https://www.marriott.com/en-us/hotels/istms-jw-marriott-hotel-istanbul-marmara-sea/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+    "property_token": "ChoI6O6HmsP_6abjARoNL2cvMTFycTltN2xzZhAB",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI6O6HmsP_6abjARoNL2cvMTFycTltN2xzZhAB&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.9746959,
+      "longitude": 28.852718499999998
+    },
+    "check_in_time": "3:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$206",
+      "extracted_lowest": 206
+    },
+    "total_rate": {
+      "lowest": "$618",
+      "extracted_lowest": 618
+    },
+    "nearby_places": [
+      {
+        "name": "Atak\u00f6y",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "3 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "38 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 20 min"
+          }
+        ]
+      },
+      {
+        "name": "Ceres Restaurant",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "1 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "5-star hotel",
+    "extracted_hotel_class": 5,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxQoY5Aqec98zCh_Nj_7Dt-HL8PR5jxndPi2o1O3uStd-WtJO22rSV0PQwnzPVTfXPt8rT-l8_Q_0ynLfZjGkfzMZNHZFyR02PM1Z-8FKlW9ml0fzmzB39sNKHO8vYz_xyMLyY=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDe-_ejVw=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOJ8J17tGU1jJqBInH46PILeZMzI35inQaUt2Ua=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOJ8J17tGU1jJqBInH46PILeZMzI35inQaUt2Ua=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM55e5Wvmb4tUykaq7rHZH6spTww9rpkEkfT14d=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM55e5Wvmb4tUykaq7rHZH6spTww9rpkEkfT14d=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxk9_2NF96LeTNgA-C164pxtO_N7p7AZVDOXtvgYEFFCVWlGX0uxvyVqKoNU9eyRdeGTgi0C62F3A-IkzZkZ7Edeaxx9HUdnW16wmg9Lan9h6owHqGswMbV2AkyBrRA9mTFtdoZbA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIC-lNnW-gE=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPSXNl72RnYEHIB8bS4yom7Y9GQfrLVN3449UgS=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPSXNl72RnYEHIB8bS4yom7Y9GQfrLVN3449UgS=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMZqwQqdKnZ2PA82d-4uSYMnLF6arrVHP0o3yxb=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMZqwQqdKnZ2PA82d-4uSYMnLF6arrVHP0o3yxb=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNuXsZFGG07UqxJMwMowalOp_ZAnLbNKpRFFXSh=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNuXsZFGG07UqxJMwMowalOp_ZAnLbNKpRFFXSh=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMSP95lCpwSVTpvR9raeLhmRoiG1oVFalO_vIM3=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMSP95lCpwSVTpvR9raeLhmRoiG1oVFalO_vIM3=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNHG-1jMJVM22eBS6qsJsUGm9ncg72DAbGxt1hS=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNHG-1jMJVM22eBS6qsJsUGm9ncg72DAbGxt1hS=s10000"
+      }
+    ],
+    "overall_rating": 4.7,
+    "reviews": 1534,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 1326
+      },
+      {
+        "stars": 4,
+        "count": 101
+      },
+      {
+        "stars": 3,
+        "count": 34
+      },
+      {
+        "stars": 2,
+        "count": 10
+      },
+      {
+        "stars": 1,
+        "count": 63
+      }
+    ],
+    "location_rating": 2.4,
+    "reviews_breakdown": [
+      {
+        "name": "Wellness",
+        "description": "Wellness",
+        "total_mentioned": 56,
+        "positive": 53,
+        "negative": 1,
+        "neutral": 2
+      },
+      {
+        "name": "Spa",
+        "description": "Spa",
+        "total_mentioned": 49,
+        "positive": 46,
+        "negative": 1,
+        "neutral": 2
+      },
+      {
+        "name": "Fitness",
+        "description": "Fitness",
+        "total_mentioned": 47,
+        "positive": 41,
+        "negative": 4,
+        "neutral": 2
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 353,
+        "positive": 318,
+        "negative": 24,
+        "neutral": 11
+      },
+      {
+        "name": "Bar",
+        "description": "Bar or lounge",
+        "total_mentioned": 42,
+        "positive": 36,
+        "negative": 5,
+        "neutral": 1
+      },
+      {
+        "name": "Nature",
+        "description": "Nature and outdoor activities",
+        "total_mentioned": 38,
+        "positive": 35,
+        "negative": 1,
+        "neutral": 2
+      }
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Free parking",
+      "Pools",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ],
+    "eco_certified": true
+  },
+  {
+    "type": "vacation rental",
+    "name": "Airport Residence Kurtkoy",
+    "link": "https://www.expedia.com/Hotel.h14629541.Hotel-Information?mdpcid=META.HPA.WEB-ORGANIC.VR",
+    "property_token": "ChoQ-v6Opout1MOVARoNL2cvMTF5bjI5NWpteBAC",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQ-v6Opout1MOVARoNL2cvMTF5bjI5NWpteBAC&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.930110931396484,
+      "longitude": 29.305240631103516
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "11:00\u202fAM",
+    "rate_per_night": {
+      "lowest": "$52",
+      "extracted_lowest": 52
+    },
+    "total_rate": {
+      "lowest": "$157",
+      "extracted_lowest": 157
+    },
+    "prices": [
+      {
+        "source": "Expedia.com",
+        "logo": "https://www.gstatic.com/travel-hotels/branding/12590129945800583137.png",
+        "num_guests": 2,
+        "rate_per_night": {
+          "lowest": "$52",
+          "extracted_lowest": 52
+        }
+      }
+    ],
+    "nearby_places": [
+      {
+        "name": "Mustafa Akyol Sokak",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "5 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "1 hr 5 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "2 hr 25 min"
+          }
+        ]
+      },
+      {
+        "name": "Zeytin Kurtk\u00f6y (BALIK RESTORANI)",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "10 min"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/QXgB-u3LThi5Xvlq7nIVMzyQ5IaU0JbS28St62LuC36SoLI9KYsBXhZm6TwhIidd9TJOg0-DIx0jyhRvEjCp4jwF31EeslhIlD-h7ly0dDtWHLZ2a7I7v3xItjA3MQ6fqmMQ-E5JncXym19dtQ7WYLenc3Ni8A=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/6f314069_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/hxfoCKN6jsHWCGjKyHxQ4sI5zICzZGa3wuGsaJ_iSd8WE_pw65OhiEobo1NxVoo2l4m23RqE9CcG1wzmJFucEXEFinaUWxe6P_tV2zi8UkHfICVvbaH9481fb5eP27FZsjRrZc0QptFfCIorO5e3pHkjSqO_PQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/2813b733_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/Bm763b21BJ9YRqM29X4Q_0hf1ruv2cKKW529rQUZThjiuqw_JygrBzy19JNExDTzPgWiaalR52u0gwQN4d54RvnMnRLsAcFXmkFb9dyTPwCPZ5dx03nuW5Q6DbszlYXl-TPqjl0uwZEOct0ihd57gTS6iv5Lig=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/97b0d6b8_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/kn1ThH1D0CmAOAXsHmmxmvr_RQlPBOSviexHZNAEx3R6IZyizENyNOlEITWZAQrbtskOC_EHol0dOn5cHfuWKYfvRcyGwuCww8jDbLKp6AWdTGlGjhlanDm6XsgFk3kZQmTcpCCXGaOAMX87CkqTOBvxQvyAOFg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/dbbac0ee_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/hEq3WnFyRX6cb3E2-lERmPII6XGkbuL51v5xUBHquBTO-yOoFlud4QiIUmoKEYU4IZGNkfgunLGfcNV6TrfzAS1u9Qaa8aVPrSvqN3j3KGW5FJvKjdtaJMqS0TpKLgrvBdNoyJFNTRm8m2QsReZm6m2gl3jx46s=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/70ebee80_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/w65jU5qw8E2LcuKGJ7mRaYagnaWPOY0ds6ZXu460k7CJ9F-wjoOlu_vgljrQYx6Htayy96NFskhTj1ZgfSebaKt3E8wuGD4ArheoTx03x-1LXMbHT1RM5iCx6oXXyS-qWuxCkHtGQZyVUnCHTndSKiG_B8SnXA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/2074b538_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/VNmSgAjtV5udg5nUmCcnCE-haQE8FEvO0nCFsIPbYkNkKCnBmOGLkNc9U7VaD7W7hvzS9JB6OBEJYNncS01bBPx6vijjL0flZ5RDGF_pjkjHjaf7MeqWjk_NWXB-f2I4ZwmD860U8Y5WiiNeMN2UenTOw1re-Rs=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/750873aa_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/5NxmQSoEIsFtueDCdopIngaPljetObbDgpkA9FhWvSu67L2NmS5ZaQpUYFkdV2j1y35HpwQ6bp5fZNZ2bLmavdCFfZr-RlC6lP65TyOQ2Vjn-bWGhRVnHhbz0f9gQhjVGxqGgJEVTF0MUa3MGv5sjvHdzlrwkg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/47fe4950_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/jZ0MoM0h14kqmaitvsJtZFKSEx0PtGUqLlQxhBCoDG0AbJz_ltU_pUFnwpFnYyKID3jRjZQOJh7chGr7d7HumADaY3FJXE6UDnZjASTRBm-jvpYBknezrO9h8cHfvCZtL3MguYejMPLDhMgG5v7r22qicape6Oo=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/15000000/14630000/14629600/14629541/3147a9fb_z.jpg"
+      }
+    ],
+    "overall_rating": 3.7,
+    "reviews": 349,
+    "location_rating": 3.4,
+    "amenities": [
+      "Air conditioning",
+      "Elevator",
+      "Kitchen",
+      "Oven stove",
+      "Cable TV",
+      "Washer",
+      "Wheelchair accessible",
+      "Free parking",
+      "Free Wi-Fi"
+    ],
+    "excluded_amenities": [
+      "No indoor pool",
+      "No outdoor pool",
+      "Not pet-friendly"
+    ],
+    "health_and_safety": {
+      "groups": [
+        {
+          "title": "Enhanced cleaning",
+          "list": [
+            {
+              "title": "Enhanced cleaning of the property",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    "essential_info": [
+      "Sleeps 2",
+      "1 bedroom",
+      "1 bed"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Grand Lark Hotel",
+    "description": "Straightforward rooms in a laid-back property featuring an unpretentious restaurant.",
+    "link": "http://www.grandlarkhotel.com/",
+    "property_token": "ChkI2oP2w_Ce6vkjGg0vZy8xMWZsMHkzcTU1EAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkI2oP2w_Ce6vkjGg0vZy8xMWZsMHkzcTU1EAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.909107399999996,
+      "longitude": 29.2154491
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$56",
+      "extracted_lowest": 56
+    },
+    "total_rate": {
+      "lowest": "$167",
+      "extracted_lowest": 167
+    },
+    "nearby_places": [
+      {
+        "name": "Alicano\u011flu",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "59 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "2 hr 19 min"
+          }
+        ]
+      },
+      {
+        "name": "\u00dcnl\u00fcer Gurme",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "7 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "3-star hotel",
+    "extracted_hotel_class": 3,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNZJiNnvXHpLegBC3OFAMokxlF351kQc47VAbAY=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZJiNnvXHpLegBC3OFAMokxlF351kQc47VAbAY=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNwmdh83TSp7qeSYin-mjZDAXWBzG77HW0Onr7B=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNwmdh83TSp7qeSYin-mjZDAXWBzG77HW0Onr7B=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMWt-xwsdkbowgQ1zrfmPC_DwlVZZFSCNYFajUz=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMWt-xwsdkbowgQ1zrfmPC_DwlVZZFSCNYFajUz=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPm2MuMzrf10kv7vrjeXs6pbu-QgP3B43PcATnh=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPm2MuMzrf10kv7vrjeXs6pbu-QgP3B43PcATnh=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM4qRjZ0IynilGhP_-zOG_B4L4VuI93USgFBhqF=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM4qRjZ0IynilGhP_-zOG_B4L4VuI93USgFBhqF=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPDSQiE15dyIZWjq2FMZcZLhBtdVB9yfHHIP-PM=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPDSQiE15dyIZWjq2FMZcZLhBtdVB9yfHHIP-PM=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOreWc4_-ss8hlL6cQL5MF113v7Hb0yVqwVTbV_=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOreWc4_-ss8hlL6cQL5MF113v7Hb0yVqwVTbV_=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN7CPzO5rx6uEeYraTzK5SzAcssurmC1Auto9qr=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipN7CPzO5rx6uEeYraTzK5SzAcssurmC1Auto9qr=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMEH0eZ_YtYcIZC00whwch-OT3Q1enxp-1xADy8=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMEH0eZ_YtYcIZC00whwch-OT3Q1enxp-1xADy8=s10000"
+      }
+    ],
+    "overall_rating": 4.6,
+    "reviews": 516,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 408
+      },
+      {
+        "stars": 4,
+        "count": 61
+      },
+      {
+        "stars": 3,
+        "count": 24
+      },
+      {
+        "stars": 2,
+        "count": 11
+      },
+      {
+        "stars": 1,
+        "count": 12
+      }
+    ],
+    "location_rating": 2.7,
+    "reviews_breakdown": [
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 53,
+        "positive": 48,
+        "negative": 3,
+        "neutral": 2
+      },
+      {
+        "name": "Business",
+        "description": "Business",
+        "total_mentioned": 11,
+        "positive": 11,
+        "negative": 0,
+        "neutral": 0
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 98,
+        "positive": 93,
+        "negative": 4,
+        "neutral": 1
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 76,
+        "positive": 72,
+        "negative": 2,
+        "neutral": 2
+      },
+      {
+        "name": "Family",
+        "description": "Family friendly",
+        "total_mentioned": 16,
+        "positive": 16,
+        "negative": 0,
+        "neutral": 0
+      },
+      {
+        "name": "Parking",
+        "description": "Parking",
+        "total_mentioned": 7,
+        "positive": 6,
+        "negative": 0,
+        "neutral": 1
+      }
+    ],
+    "amenities": [
+      "Free breakfast",
+      "Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Restaurant",
+      "Full-service laundry",
+      "Kid-friendly"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Nest Apart Ortak\u00f6y",
+    "link": "https://cornerhot.com/nest-ortakoy",
+    "property_token": "ChkIrOSWvuOx_804Gg0vZy8xMXhkencwYjU0EAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIrOSWvuOx_804Gg0vZy8xMXhkencwYjU0EAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.052189999999996,
+      "longitude": 29.0259581
+    },
+    "check_in_time": "3:00\u202fPM",
+    "check_out_time": "11:00\u202fAM",
+    "rate_per_night": {
+      "lowest": "$35",
+      "extracted_lowest": 35
+    },
+    "total_rate": {
+      "lowest": "$104",
+      "extracted_lowest": 104
+    },
+    "deal": "36% less than usual",
+    "deal_description": "Great Deal",
+    "nearby_places": [
+      {
+        "name": "B\u00fcy\u00fck Mecidiye Mosque",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "10 min"
+          }
+        ]
+      },
+      {
+        "name": "Z\u00fcbeyde Han\u0131m Mesleki Ve Teknik Anadolu Lisesi",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "3 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "39 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 10 min"
+          }
+        ]
+      },
+      {
+        "name": "Visorante Kitchen & Bar Ortak\u00f6y",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "6 min"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMdamr3B_NuYbdyYV50daghEP6eIgZ75tNbGktr=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMdamr3B_NuYbdyYV50daghEP6eIgZ75tNbGktr=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNt9gyrmalCGyr2iDOWJqwA5l6b2bzbUKkjEIYT=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNt9gyrmalCGyr2iDOWJqwA5l6b2bzbUKkjEIYT=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPJ-WclateEKu0nSHziQ1fmsGcd9abH_Usz0g3m=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPJ-WclateEKu0nSHziQ1fmsGcd9abH_Usz0g3m=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO3NwrFLcj8wyeoPqyEYolTcIpMswSfns99_oV5=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO3NwrFLcj8wyeoPqyEYolTcIpMswSfns99_oV5=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO2xFOhX7Wt16u37QpMuEEBthHTlM5UqErwMRtq=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO2xFOhX7Wt16u37QpMuEEBthHTlM5UqErwMRtq=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO90wtCIQ0-_yx1HReAdSIyoWLOlwxBzgAhOn-o=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO90wtCIQ0-_yx1HReAdSIyoWLOlwxBzgAhOn-o=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPQs4TymGRpTSQhuUcGml-Gau9ndzR9qUhjTPFs=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPQs4TymGRpTSQhuUcGml-Gau9ndzR9qUhjTPFs=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO3QzATOD2Z_MLd2VWxMeHSZxpEGkiPydeLYp2Y=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO3QzATOD2Z_MLd2VWxMeHSZxpEGkiPydeLYp2Y=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOqHwEdBa4jbrvhLyOdOmXk2oGsfYny-6Sb6set=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOqHwEdBa4jbrvhLyOdOmXk2oGsfYny-6Sb6set=s10000"
+      }
+    ],
+    "overall_rating": 5,
+    "reviews": 2,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 2
+      },
+      {
+        "stars": 4,
+        "count": 0
+      },
+      {
+        "stars": 3,
+        "count": 0
+      },
+      {
+        "stars": 2,
+        "count": 0
+      },
+      {
+        "stars": 1,
+        "count": 0
+      }
+    ],
+    "location_rating": 3.3
+  },
+  {
+    "type": "hotel",
+    "name": "Istanbul Sydney Hotel",
+    "description": "Understated rooms, some with sea views, in a casual hotel offering a restaurant & breakfast.",
+    "link": "http://istanbulsydneyhotel.com/",
+    "property_token": "ChgIiNSuu8OI0swyGgwvZy8xcHAydF83cWgQAQ",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChgIiNSuu8OI0swyGgwvZy8xcHAydF83cWgQAQ&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.0041795,
+      "longitude": 28.9623108
+    },
+    "check_in_time": "12:00\u202fPM",
+    "check_out_time": "11:00\u202fAM",
+    "rate_per_night": {
+      "lowest": "$32",
+      "extracted_lowest": 32
+    },
+    "total_rate": {
+      "lowest": "$96",
+      "extracted_lowest": 96
+    },
+    "deal": "27% less than usual",
+    "deal_description": "Great Deal",
+    "nearby_places": [
+      {
+        "name": "Yenikap\u0131",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "8 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "45 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 25 min"
+          }
+        ]
+      },
+      {
+        "name": "Kumkap\u0131 Afrodit Restoran",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "4 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "2-star hotel",
+    "extracted_hotel_class": 2,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPvr_gzVdRxeJTrUwCryqL7MQUtJeR7tSUGNiDQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPvr_gzVdRxeJTrUwCryqL7MQUtJeR7tSUGNiDQ=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMD2749JZqU4puWBeSYU9GwR6WrntF6ZIhxPW4V=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMD2749JZqU4puWBeSYU9GwR6WrntF6ZIhxPW4V=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/h3orCaHD2vsI7HxpXgYxMkxxfmFLwWAnFWPLti-LJuyn-3Unr3105IvD8O73SBiX2XmwUQk1cgyPB1hsstavFQdRXzv_Iolu_0XHCs5l1odzs1GuYs8oRFgPZwkVZwmMPgr_vCnhX-znoLkSGHzNza0rLxPN2qU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/10000000/9690000/9687100/9687040/9eb4f5c1_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPuehTHY90bdmFPB9XzzMh4l4HylQflbRY6Nv-b=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPuehTHY90bdmFPB9XzzMh4l4HylQflbRY6Nv-b=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPCTO7g0BoTFjK2Y2l5H18srM8KNow5mkKdwuQQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPCTO7g0BoTFjK2Y2l5H18srM8KNow5mkKdwuQQ=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNezY5LTJPXs72p0d67nzFXDWQSTj84ZFFZ9pOz=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNezY5LTJPXs72p0d67nzFXDWQSTj84ZFFZ9pOz=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMKk8IKYxGLm_FlV5o4n5TMmC70nAJIa9XUJzsn=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMKk8IKYxGLm_FlV5o4n5TMmC70nAJIa9XUJzsn=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOK9DQitKEaV2Soi4LplF0-e5vSxMoDi931w2_Y=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOK9DQitKEaV2Soi4LplF0-e5vSxMoDi931w2_Y=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/Q3riMZAzTPNr6vRW-B3Wraua3IuEGHBaQt8egXMEIHuQp6kEx5VGEl42sBmbIlYp0-9ykEz8xRMKLWxZy2Z1qfGCzyj999vzBq2fP1emJDuk0tmpvHWQy5GHHYWdwz5sPA70TrIn-xKWOtVQB0HIvRUU04LE7g=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://cdn.worldota.net/t/1024x768/content/41/fc/41fc57e591a09c99dc63a04e432a4214b77cd786.JPEG"
+      }
+    ],
+    "overall_rating": 3.7,
+    "reviews": 328,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 166
+      },
+      {
+        "stars": 4,
+        "count": 42
+      },
+      {
+        "stars": 3,
+        "count": 30
+      },
+      {
+        "stars": 2,
+        "count": 23
+      },
+      {
+        "stars": 1,
+        "count": 67
+      }
+    ],
+    "location_rating": 4.2,
+    "reviews_breakdown": [
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 21,
+        "positive": 12,
+        "negative": 7,
+        "neutral": 2
+      },
+      {
+        "name": "Bathroom",
+        "description": "Bathroom and toiletries",
+        "total_mentioned": 12,
+        "positive": 2,
+        "negative": 9,
+        "neutral": 1
+      },
+      {
+        "name": "Room",
+        "description": "Room amenities",
+        "total_mentioned": 21,
+        "positive": 14,
+        "negative": 7,
+        "neutral": 0
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 45,
+        "positive": 33,
+        "negative": 11,
+        "neutral": 1
+      },
+      {
+        "name": "Sleep",
+        "description": "Sleep",
+        "total_mentioned": 13,
+        "positive": 3,
+        "negative": 9,
+        "neutral": 1
+      },
+      {
+        "name": "Location",
+        "description": "Location",
+        "total_mentioned": 30,
+        "positive": 20,
+        "negative": 6,
+        "neutral": 4
+      }
+    ],
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Pet-friendly",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Airport shuttle",
+      "Full-service laundry"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Berlin Otel Ni\u015fanta\u015f\u0131",
+    "description": "Relaxed rooms in an informal hotel offering a bar & parking, plus complimentary breakfast & Wi-Fi.",
+    "property_token": "ChoI4_DjtLKXudOvARoNL2cvMTFiNmRubV95ZBAB",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoI4_DjtLKXudOvARoNL2cvMTFiNmRubV95ZBAB&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.0537311,
+      "longitude": 28.9928044
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$30",
+      "extracted_lowest": 30
+    },
+    "total_rate": {
+      "lowest": "$91",
+      "extracted_lowest": 91
+    },
+    "deal": "53% less than usual",
+    "deal_description": "Great Deal",
+    "nearby_places": [
+      {
+        "name": "Dolmabah\u00e7e Palace",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "8 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "39 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 5 min"
+          }
+        ]
+      },
+      {
+        "name": "Milano Gourmet",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "3 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "3-star hotel",
+    "extracted_hotel_class": 3,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOZ2NF5s0XT1UUjk2ylIhQWCY3HalDp3OXkA6y5=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOZ2NF5s0XT1UUjk2ylIhQWCY3HalDp3OXkA6y5=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM8QkXZIjhNZaEd3eaOlgKJCIqxxww2rs6NtuTy=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM8QkXZIjhNZaEd3eaOlgKJCIqxxww2rs6NtuTy=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPhbpaZcaO1vZKXFMhQ4srN_cBVFxkDD0QSW0kz=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPhbpaZcaO1vZKXFMhQ4srN_cBVFxkDD0QSW0kz=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMAjZ07qRbIHtfoNIwENqMZR1LbyDZg-OYIYKlv=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMAjZ07qRbIHtfoNIwENqMZR1LbyDZg-OYIYKlv=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMuowrD6_2fmEQmAAb1aPqzsFcaW4pZglKyPznZ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMuowrD6_2fmEQmAAb1aPqzsFcaW4pZglKyPznZ=s10000"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/VuS_sahGdLF5fozeFzF6kJmOLvcnmgnW37gA3Nh7yzfFcQjktbedpzYU9ZNy57s9e5A_j9eBM2HlOga0g3WC3wR-3Z4AcVgEmOfqS5bw8pqSNiD2xrhZmlV5bwUgsYucmKsDyEweXljwlAkHFebSEPY2t53EbQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/81/814356/814356a_hb_w_011.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM_2uXw-w-GIPQnsfmHjtlriyMfJD22c_NaQwIW=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM_2uXw-w-GIPQnsfmHjtlriyMfJD22c_NaQwIW=s10000"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/bF0NDBSJBNbOP42jOKlh5_gEo92P4uFUr0B7HTvXSMKOIETEIc1LdhUSfwnBg9Xt2IR6OHUXtPTfMrGqUtHhEgl57nZcFxO8UbpLj36r8xAxp41LJFDYo600xCUnGhdhWkErhLcCaHCBieQYB55eXASP60Wml4U=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/12000000/11440000/11431300/11431253/e76e459c_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/Obr-KTwtAzDn8W1u5JtAe5FwU0ILEEiWnK4ZgNmd2yZAxRwvz5eKcwglWRbb-S6-svg3WTg7RKSGVKnU1NPivrRKPRNmF08LxAgcwjZeiXMRxjNqbfmx3DUNRuLwLL7_T8lm-w69QyPixkKgD1ygjhhhUyRLkA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/81/814356/814356a_hb_w_013.jpg"
+      }
+    ],
+    "overall_rating": 3.3,
+    "reviews": 468,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 188
+      },
+      {
+        "stars": 4,
+        "count": 62
+      },
+      {
+        "stars": 3,
+        "count": 55
+      },
+      {
+        "stars": 2,
+        "count": 33
+      },
+      {
+        "stars": 1,
+        "count": 130
+      }
+    ],
+    "location_rating": 3.6,
+    "reviews_breakdown": [
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 79,
+        "positive": 38,
+        "negative": 39,
+        "neutral": 2
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 86,
+        "positive": 53,
+        "negative": 32,
+        "neutral": 1
+      },
+      {
+        "name": "Sleep",
+        "description": "Sleep",
+        "total_mentioned": 24,
+        "positive": 0,
+        "negative": 23,
+        "neutral": 1
+      },
+      {
+        "name": "Bathroom",
+        "description": "Bathroom and toiletries",
+        "total_mentioned": 21,
+        "positive": 2,
+        "negative": 18,
+        "neutral": 1
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 79,
+        "positive": 41,
+        "negative": 33,
+        "neutral": 5
+      },
+      {
+        "name": "Location",
+        "description": "Location",
+        "total_mentioned": 56,
+        "positive": 42,
+        "negative": 7,
+        "neutral": 7
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Air conditioning",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Smoke-free property"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Comfort Point Hotel",
+    "link": "https://comfortpointhotel.com/",
+    "property_token": "ChoIob_2wpDGmOXuARoNL2cvMTFzNXhzOXFoNRAB",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoIob_2wpDGmOXuARoNL2cvMTFzNXhzOXFoNRAB&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.0195654,
+      "longitude": 28.827008499999998
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$33",
+      "extracted_lowest": 33
+    },
+    "total_rate": {
+      "lowest": "$99",
+      "extracted_lowest": 99
+    },
+    "deal": "24% less than usual",
+    "deal_description": "Deal",
+    "nearby_places": [
+      {
+        "name": "\u015eehit Mehmet Karaaslan",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "35 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 25 min"
+          }
+        ]
+      },
+      {
+        "name": "\u00d6zcan Yeni Kasap Izgara",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "1 min"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNRa6XR19nOQP7OjvdVwOj5vmTea1XVpaH2MbiN=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNRa6XR19nOQP7OjvdVwOj5vmTea1XVpaH2MbiN=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOQ3XK2uuion2DJwoXxi2TMmvm_WZXHwQHtUzjI=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOQ3XK2uuion2DJwoXxi2TMmvm_WZXHwQHtUzjI=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/yDj1sd9cYmNWDvO2XwN5UKkjtLk0h1Nt-qDFzf2GBisQMARlg5c4JIiV6whGJH4bxFp5psshxoc4dt4sAsAwwfsrS8K22Rs50MdZwrdiw1kR_HsT7SNlQIIyTh-yCb1ZdE8nBgECUIdyGNfKAmmv0ZNEUNSJmg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://cdn.worldota.net/t/1024x768/content/eb/d2/ebd2759276a2665ecce916d858120824eef10be0.jpeg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOPx6DZlPKcXDzBOBe5aJPbKAqMXB3wzNkN3AYj=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOPx6DZlPKcXDzBOBe5aJPbKAqMXB3wzNkN3AYj=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOwPJuLtRfhGXFHBnT9f1ENIvw-HKip1yGKlFRB=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOwPJuLtRfhGXFHBnT9f1ENIvw-HKip1yGKlFRB=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNZW64N9OAd6BlYps9wu3S34Kkp48xXlbOMf0XD=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNZW64N9OAd6BlYps9wu3S34Kkp48xXlbOMf0XD=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMkMJHn8u9406gtcqL_veJonMJli1gq3mZTlJuX=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMkMJHn8u9406gtcqL_veJonMJli1gq3mZTlJuX=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM-vSJhgfFQAWewSR6WfFv8RUlJGvz4D5-d9YRY=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM-vSJhgfFQAWewSR6WfFv8RUlJGvz4D5-d9YRY=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwSU7kyMb-dQAnZUaWTR7MpL43v8WLqjab9KvIaNcMtjph3ReT75wauFeZdAQXvJvIvcaP2SYd5bWdNn4yXFWwH8TeHhIrJWy--b28L9PuP9_0KHt6dR_NdY1kKW1mZ-ntAuCZV=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgIDe8J2yMg=s10000"
+      }
+    ],
+    "overall_rating": 4.3,
+    "reviews": 390,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 285
+      },
+      {
+        "stars": 4,
+        "count": 33
+      },
+      {
+        "stars": 3,
+        "count": 24
+      },
+      {
+        "stars": 2,
+        "count": 7
+      },
+      {
+        "stars": 1,
+        "count": 41
+      }
+    ],
+    "location_rating": 2.6,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 103,
+        "positive": 94,
+        "negative": 6,
+        "neutral": 3
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 79,
+        "positive": 68,
+        "negative": 10,
+        "neutral": 1
+      },
+      {
+        "name": "Business",
+        "description": "Business",
+        "total_mentioned": 9,
+        "positive": 8,
+        "negative": 0,
+        "neutral": 1
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 24,
+        "positive": 18,
+        "negative": 3,
+        "neutral": 3
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 77,
+        "positive": 66,
+        "negative": 9,
+        "neutral": 2
+      },
+      {
+        "name": "Parking",
+        "description": "Parking",
+        "total_mentioned": 6,
+        "positive": 4,
+        "negative": 0,
+        "neutral": 2
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Cityloft 81 Hotels",
+    "description": "Warm rooms & suites in a high-end hotel offering a stylish restaurant & a rooftop bar.",
+    "link": "http://www.cityloft.com.tr/",
+    "property_token": "ChkIj6rCqbD0yMkrGg0vZy8xMWM0NXp0eGc0EAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIj6rCqbD0yMkrGg0vZy8xMWM0NXp0eGc0EAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.978453699999996,
+      "longitude": 29.142702999999994
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$41",
+      "extracted_lowest": 41
+    },
+    "total_rate": {
+      "lowest": "$122",
+      "extracted_lowest": 122
+    },
+    "nearby_places": [
+      {
+        "name": "\u0130smek",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "51 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 44 min"
+          }
+        ]
+      },
+      {
+        "name": "Neyzendo - Fas\u0131l Restaurant - Eski Nesil Meyhane",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "1 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "4-star hotel",
+    "extracted_hotel_class": 4,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/dWEnfUTXUpKOcxc6QjsRf9BgSOdIRbnbHYVDdBmfUES8qHfFHjMlKCHAUUnMavxCQBrUlcPRqPOVucM4hAFRLAR2SuETY4LIy_expNlf3VMpDCT2DSl1ykXTsg7tWMYV8g8YvbMIegNexDRAKfjyB9hrXArJ__g=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAJUDZgcFAGCFoosan9AxuwE8Etwdv_Y"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/gwVnoSu9sxIjt6ZOuNgiHM-BRA0TB_MG0Fm1ChQlv5ttSppkdHDOPv96G-V0RmWeaw3jaTbfbrvaPEWMKNmNPAyY0NAelXkt3E7Lr2-vJPkaiz5tt1LO-CMfvMvGhKYLgkhmM8Qk5dtLT8nYUbf6dTciArD_Hhg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://cdn.worldota.net/t/1024x768/extranet/1c/90/1c90930c44311f492808678b02b9361df001c3e7.jpeg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/gnk-p7HOJdvg1AXkdgMperGIqQo5-pKMERWFcWSpzxMhLMxq8ffDdRgNmnZSPiSrLrLdlc1xlrn9Q8zVmmCWfr5UZ4xazxNA5KRgJvUY1WYbAWjhQ-x9jhWx4dSPPL38g4iPqD1fhf36UACyS9EFibs1xeupXho=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/62/629246/629246a_hb_ro_009.JPG"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/KZ5nMqt0RoazLT7KKwds3L98naVWVua8CX8K6W8-kz2d8cnro67RPkOTC3eNUTvIOnB8rk0y_3vANWI41xobnDVubHTZJxD1o0UIr12gD5HYXdD60aDeGVYN70dd-LSbP3ysCT2a09aAmS5xWupi8_rkxG7TPg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/62/629246/629246a_hb_ro_032.JPG"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/zx9QbpE83czV2eiQbUxkjd8faGUNJyxwl7HXmjEv2yKdX78zoZu8_aT1vR0R8M9XyUATXj589CTxFXkeeD2Or1EcpFo2SQU2WAHAjjAaigGuowVG__83GmtoP8aVyluMzKVec1T-7y7DKLDztv6DqqGb-m9K7g=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAJQDZgcFAP_uHOhZCgynq62LLk2SQWU"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/MgpaNduEgx5gbBXDOw9YztQScqmzTOP4OpBdB7hqGOww4EudXs8-xo2WvFjflxzW3WsgT-5rSS_28bsR7ByWO3xSYgy18JHTv5yMc8AMcN-Pqtdcej8ucy7xRzUcQ4J-cITcqOfoEH4Q97gaqjW1ygHEdpEpCw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/62/629246/629246a_hb_ro_017.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/EX004qGpxaipfc_GocLeijeN8OsOm7KSPOoFhje59J6XqgFofytgMWbpzl9956uxEt30gPY3ID_O8R5sziD3Z41GFZE9ovXvAl8hrzQdVJqnVziCsUniCdM3CtkmuDwcwSxfxCICvfOTJtWKe7r8SIHLJh57Wew=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/62/629246/629246a_hb_f_006.jpg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/BSZTrlnJu-qYiF9W1ZzQvS8VU9j-a0gqOn1oGnyrVubWPCarDLNUj6pgBL3PQuLert-9rIHfJFT3RyC3aOl4qgGrbu7F-svy39lWXqqcLX3bPitVNIXjoEhNVQfebhC6AHV9-KTj_vozP-lajrTktRlfF-J1YA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/17000000/16330000/16321400/16321327/1a0ce63c_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/QR-LpjIdBY5DR63W1EkkBuT9PmYZP5D-LPq7yivTnml14dQ_2pjreZt5LGA1K2fFFTLhPZo1o0MrPV5_Hk3349Y6kfcwbmhmyUnTquYJEarRphwhSrIotNJSwU5pjcZOVeOhxCWumSVm944_O_ita2kbr2T30Uo=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/62/629246/629246a_hb_r_008.jpg"
+      }
+    ],
+    "overall_rating": 3.9,
+    "reviews": 1642,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 861
+      },
+      {
+        "stars": 4,
+        "count": 320
+      },
+      {
+        "stars": 3,
+        "count": 149
+      },
+      {
+        "stars": 2,
+        "count": 68
+      },
+      {
+        "stars": 1,
+        "count": 244
+      }
+    ],
+    "location_rating": 2.4,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 260,
+        "positive": 187,
+        "negative": 61,
+        "neutral": 12
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 234,
+        "positive": 151,
+        "negative": 64,
+        "neutral": 19
+      },
+      {
+        "name": "Hot Tub",
+        "description": "Hot tub",
+        "total_mentioned": 10,
+        "positive": 6,
+        "negative": 4,
+        "neutral": 0
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 173,
+        "positive": 110,
+        "negative": 56,
+        "neutral": 7
+      },
+      {
+        "name": "Bathroom",
+        "description": "Bathroom and toiletries",
+        "total_mentioned": 45,
+        "positive": 7,
+        "negative": 32,
+        "neutral": 6
+      },
+      {
+        "name": "Parking",
+        "description": "Parking",
+        "total_mentioned": 14,
+        "positive": 6,
+        "negative": 6,
+        "neutral": 2
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Hot tub",
+      "Air conditioning",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ]
+  },
+  {
+    "type": "vacation rental",
+    "name": "Somerset Maslak Istanbul",
+    "property_token": "ChoQm9yZ9tDOkNL_ARoNL2cvMTF5bHE5MzY5ZhAC",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQm9yZ9tDOkNL_ARoNL2cvMTF5bHE5MzY5ZhAC&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.12074661254883,
+      "longitude": 29.009197235107422
+    },
+    "check_in_time": "3:00\u202fPM",
+    "check_out_time": "11:00\u202fAM",
+    "rate_per_night": {
+      "lowest": "$145",
+      "extracted_lowest": 145
+    },
+    "total_rate": {
+      "lowest": "$434",
+      "extracted_lowest": 434
+    },
+    "prices": [
+      {
+        "source": "Hoteis.com",
+        "logo": "https://www.gstatic.com/travel-hotels/branding/7725599522425217147.png",
+        "num_guests": 2,
+        "rate_per_night": {
+          "lowest": "$145",
+          "extracted_lowest": 145
+        }
+      }
+    ],
+    "nearby_places": [
+      {
+        "name": "S\u00f6\u011f\u00fct\u00f6z\u00fc Sokak",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "10 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "40 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 20 min"
+          }
+        ]
+      },
+      {
+        "name": "Gang Lounge",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "10 min"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/fP8a4X10nmA-XpfuYpbcVH2Xd6HE0xSVKUc7j0PxFeSFFk4wefAslnQ5GAt1k4gWqrbN43oGuW6hDqAvcOu2L-O6UeSxg_W7ZsOlgdL3ZIInq_YFLq3SegwOoxazUTK5VGldREC3vZJoswhP5__AFmdXcEvuIOw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/20000000/19410000/19403300/19403252/a14effa4_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/PJ5B5GshtZmkacM8MMw0rOGI5-5U_-_7qSsjXan6wrFIE7d38a_SHRaK2eOm8D-FNtCzv-J1vn194ax3l7VcOA6aXoObuJDRNcjJkyGeccEw-CJcIXLW8RQIL9YqGo0IVSSgKUh_R1UWYFAk3A12Kd5fFLa7cAE=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/20000000/19410000/19403300/19403252/d3de760e_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/NGpTeNLCGOA6ggwSWb-bqWpBIsHOAPeMPfaPXgbAcO_8NRC2cgf_JES4o02Gx3UoTxunbgVHvz5hVw_f_x-YNNWzyRfhTPhfbYWy057U33z9Yglf6IGjcvIPZIzyGM2qY3COB3ofml4qhU3dstWjDcCPS2_c0A=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/20000000/19410000/19403300/19403252/f4b961df_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/qbw2owVfP_jZPlV90dFrenFfNFSfAZHnt_ng2AmGf1FHeUDem-M7vjwuBar52zqFo_j_qz3NKSp5Vw6fc_TQIyUJpU_RypcZBzZq2t7ttrobcC7kIM8gm96TYY7OZ63YMqdgV3UA42VIo0Ij204-9PWLJqqKxA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/20000000/19410000/19403300/19403252/6f71b640.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/t5fSo55p-5t-2Req5D_u_DF34gEJo_25bkIw3OsETQwNaIpa4YDDOrBw5j-UenwrOQKjOjyTn76TOxDU28nBnzWMazi6FcIbct69Ox6-guBRIBHLixW84vjfZhxw5Ne92Uf3kywvdd8F3nD4-g_5Ga0b-FAve-U=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/20000000/19410000/19403300/19403252/d43a07e6_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/vyaJ9zNtCF0eL9Kob-4QniW0dESwmgF27QZbKleKNoPsfFgtNCliEjt8kdgsVNV5bXHuA2SVdKXZVl6fxVoGU5wrlvPjlGzOeKXJgZYVH9bc3Xw78xRS3rHNY8TLFHdiAwdaEnUj0teSHyAC2yCsJd_5xZtfcqc=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/20000000/19410000/19403300/19403252/7dc42f2d.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/5Ywn1Zyi3Dx1S9J2Fhg3AFvKT9B_ojYn4ul9jdvfK-wVOt28wVhfoc8YBoA31kvDJPMU7wvPrDEmEQQ2ZQlCSQtyEigYveGuWFBtGjbv_PHkgAx_877rYpEBX_JYU2envaJXv3Q6xkeoILarbhMql303zQTz-m4=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/20000000/19410000/19403300/19403252/71430e99_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/5zykVw-tWSkEgciLsWupGJ5E1qr6beFVo6F4D6ORBq6hnLiGsFwTk0Lg-5VE4BWY10EzJQKmc9y_QXj88dOfOoDHzCsCv9UCWbIHULaoJ4hvtrFC8O5SIx9rTm0OyQ9JOBCyVTI-mRlVuE_WbWsEjV8KeN8TWQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/20000000/19410000/19403300/19403252/05a0769d_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/BHeO-s1LM_MSBxBC0Oxe_mnkbncsVaMgcMPpWMn-K5nYKGvKFZUePSf4LggrI39lPozoV8t2uxgWNwO_jthOZnnRRBaOMr09iWYKn1K3ttDSjDWc8v5E8gcQ3snaIc9HratIuxkKbpEJGWqdIb4od1I8sHml5fU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/20000000/19410000/19403300/19403252/7dc494d8.jpg"
+      }
+    ],
+    "overall_rating": 4.3,
+    "reviews": 966,
+    "location_rating": 2.3,
+    "amenities": [
+      "Air conditioning",
+      "Crib",
+      "Elevator",
+      "Fitness center",
+      "Heating",
+      "Ironing board",
+      "Kitchen",
+      "Microwave",
+      "Outdoor pool",
+      "Oven stove",
+      "Pet-friendly",
+      "Cable TV",
+      "Washer",
+      "Wheelchair accessible",
+      "Free parking",
+      "Free Wi-Fi"
+    ],
+    "excluded_amenities": [
+      "No indoor pool"
+    ],
+    "health_and_safety": {
+      "groups": [
+        {
+          "title": "Enhanced cleaning",
+          "list": [
+            {
+              "title": "Enhanced cleaning of the property",
+              "available": true
+            }
+          ]
+        }
+      ]
+    },
+    "essential_info": [
+      "Sleeps 3",
+      "1 bedroom",
+      "1 bed"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "\u0130stanbul Fair Hotel",
+    "description": "Low-key rooms, some with sitting areas, in an informal hotel offering dining & free breakfast.",
+    "link": "http://istanbulfairhotel.com/",
+    "property_token": "ChkIm4q55dWyh65wGg0vZy8xMWZtYmtzdHNnEAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIm4q55dWyh65wGg0vZy8xMWZtYmtzdHNnEAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.9935422,
+      "longitude": 28.7941361
+    },
+    "check_in_time": "12:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$25",
+      "extracted_lowest": 25
+    },
+    "total_rate": {
+      "lowest": "$75",
+      "extracted_lowest": 75
+    },
+    "deal": "29% less than usual",
+    "deal_description": "Great Deal",
+    "nearby_places": [
+      {
+        "name": "Istanbul Aquarium",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "9 min"
+          }
+        ]
+      },
+      {
+        "name": "Be\u015fyol",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "37 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 16 min"
+          }
+        ]
+      },
+      {
+        "name": "IMM K\u00fc\u00e7\u00fck\u00e7ekmece Municipal Restaurant",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "3-star hotel",
+    "extracted_hotel_class": 3,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMUgMJOaEpivkZKfjsyfuUsTWAkV7Ocr67dg9h0=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMUgMJOaEpivkZKfjsyfuUsTWAkV7Ocr67dg9h0=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPvC5YIpbVzR-oEj97wx0fX-YR-J2RcJewdZ7Ay=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPvC5YIpbVzR-oEj97wx0fX-YR-J2RcJewdZ7Ay=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPTVECfMM-qdlCYM5KEkjuhH3GlKuLP0O_4-SXW=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPTVECfMM-qdlCYM5KEkjuhH3GlKuLP0O_4-SXW=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMIedg6eOfRv-z3VI_CGaHZWwiGF27fXbGpnNf2=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMIedg6eOfRv-z3VI_CGaHZWwiGF27fXbGpnNf2=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMZFIvkL4F4gL8v_7rgGeyY29AeiK4m3ayIUspc=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMZFIvkL4F4gL8v_7rgGeyY29AeiK4m3ayIUspc=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMBiKUzuyWX32dc7kbA1heHBZHOruUCDLJCiP2X=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMBiKUzuyWX32dc7kbA1heHBZHOruUCDLJCiP2X=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNq0Y9OPDSGTHrUS7gyP-wXuuYodd4ZKl3ZurxM=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNq0Y9OPDSGTHrUS7gyP-wXuuYodd4ZKl3ZurxM=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOVduhPqKLBJX7rAbp3F2Ytl_nty2Ypl-pxng0d=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOVduhPqKLBJX7rAbp3F2Ytl_nty2Ypl-pxng0d=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNXizg7x07K2GDiS2VjvhkLBPyJAmXdeAgQc3Z-=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNXizg7x07K2GDiS2VjvhkLBPyJAmXdeAgQc3Z-=s10000"
+      }
+    ],
+    "overall_rating": 4,
+    "reviews": 666,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 409
+      },
+      {
+        "stars": 4,
+        "count": 68
+      },
+      {
+        "stars": 3,
+        "count": 52
+      },
+      {
+        "stars": 2,
+        "count": 38
+      },
+      {
+        "stars": 1,
+        "count": 99
+      }
+    ],
+    "location_rating": 2.8,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 154,
+        "positive": 130,
+        "negative": 18,
+        "neutral": 6
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 114,
+        "positive": 88,
+        "negative": 20,
+        "neutral": 6
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 126,
+        "positive": 97,
+        "negative": 25,
+        "neutral": 4
+      },
+      {
+        "name": "Location",
+        "description": "Location",
+        "total_mentioned": 61,
+        "positive": 52,
+        "negative": 5,
+        "neutral": 4
+      },
+      {
+        "name": "Sleep",
+        "description": "Sleep",
+        "total_mentioned": 31,
+        "positive": 5,
+        "negative": 21,
+        "neutral": 5
+      },
+      {
+        "name": "Bathroom",
+        "description": "Bathroom and toiletries",
+        "total_mentioned": 19,
+        "positive": 4,
+        "negative": 13,
+        "neutral": 2
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly",
+      "Smoke-free property"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Ciragan Palace Kempinski",
+    "description": "Lavish lodging in an ornate former palace with dining & a spa, plus an infinity pool & a helipad.",
+    "link": "https://www.kempinski.com/tr/ciragan-palace",
+    "property_token": "ChYI3dDm6b-ZkpDSARoJL20vMDgwMWdmEAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChYI3dDm6b-ZkpDSARoJL20vMDgwMWdmEAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.0439752,
+      "longitude": 29.0161433
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$851",
+      "extracted_lowest": 851
+    },
+    "total_rate": {
+      "lowest": "$2,552",
+      "extracted_lowest": 2552
+    },
+    "nearby_places": [
+      {
+        "name": "Dolmabah\u00e7e Palace",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "10 min"
+          }
+        ]
+      },
+      {
+        "name": "Yahya Efendi",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "3 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "40 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 11 min"
+          }
+        ]
+      },
+      {
+        "name": "Mar Kebab House Restaurant"
+      }
+    ],
+    "hotel_class": "5-star hotel",
+    "extracted_hotel_class": 5,
+    "images": [
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/UMqaW0CAR6Tv-jKucxwJ7rgusbEMLupGro1GctzF07CH16T2GeangpnY0lEqkIuuaC8ILAHdR2LnwAraxJrGdtp1S6Idv1jDT4jDpZYEQT_DGDwnz2M-EHy9AhkesmRY4DdkgRUs0Yd0ZE_RWGFA3njqUaqplIw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/01/019474/019474a_hb_w_198.jpg?20250403124321?20250521024417"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPMg6AmBYZX85-6_C_Tq3ly-ohp1WACKPq5vpHw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPMg6AmBYZX85-6_C_Tq3ly-ohp1WACKPq5vpHw=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSytPb0zZxCCKIlxiNf4ZlVq_cZwEgf3qs7zA2xrOSw03Q-K0HPuW-34c4YgP9YOdLJQouE4_QXEUVdy6_t93oKpS5APJ9POasdlkFPpp5AE4S_DhkFIpei8s8sbl_8j4na1WOOmCQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICbqqPp4gE=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/TFd4VKEV3gQAK8BvzJrhTvdyhOgPc78S_4w1bWG5VqHUPPCHDH5nUhYjEvuXvu5YQ2D5atlnIO-LI43pXKSRGyHo1Hcj34-VUmYWhMVNyqW2bNuBL6KJmL_PEqjbrYBhoOVPxaK0mAgz0I4MZzyPwO6GdAufA7w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KACe7oQIFABA2GXN_9ditdidCzOg39r4"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/034vMePzpfJB-bkYTJE68JyX0lNBBXF4_kI7viMruAdKxpZZ85G7lYIxNFGLls6BKZumVXUkWck3guPwZS83utuRCynLlov9fsdvj7DA3fTupy1ZB_vXRBksiA88hMhBB0WvePb8S91tgXS02XzOEeacdNdrxYU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/01/019474/019474a_hb_ro_478.jpg"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/RhSlWBJZWqeAOf2dDBOK2PmVcH_H28wiCd_q0ZmKUIZLzCDfTJptOAyK_v4dYHEaO6ldNRMwCIp7PYYBbtFej7lFY8hQ9d4eq0-XTx7Wt0lpeuey5oAMNEQzJP7tYVM9C7_cSaqg4U-inB-Zc1gYW9rGEgUXCQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://www.iceportal.com/data/2813-127853-f83920611_XXLejpg/Trkiye/Istanbul/Ciragan-Palace-Kempinski-Istanbul/Photo/Ciragan-Palace-Kempinski-Istanbul-Istanbul-Undefined-Exterior.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/AWIpClZ_YqLKW-x5iGer7V8NYG6EvgxxlD_h9Cp_m9IOQPRwwGooBf2ocCnHmijT3DUcLJGp8IjGkFC_JO3eOUqfL45EY7qI7hbxILwQfb3L7gqtZ2AO1Xrm6lREJrY5SY_XshToEqw_fmpT1LRSxeJdZHpujpc=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/01/019474/019474a_hb_a_065.jpg?20250305045229?20250521024420"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/0qImYovP5VsXCZuex1mBNdyr0y-vqeYCopDrJD47F38sFEj9mb6uM84AqemoCdJjVYbt-YHFF6l6m7lYmWTKCzRBM9nAlkpDlpXOo3e1laNdsZ7fBrxaLjCzLTrqKNOgYOKn2rlsLN5tiihY-s4hkZDzwt8kng=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://www.iceportal.com/data/2813-127853-f83920625_XXLejpg/Trkiye/Istanbul/Ciragan-Palace-Kempinski-Istanbul/Photo/Ciragan-Palace-Kempinski-Istanbul-Istanbul-Undefined-Exterior.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/lHwwNLxgDX6BmXL9YTp0EQk7WCI_eJPuafvDF83YHfPzUcoYRFkHeNiKNhvr2SoNiEH3IzQZdMGb8UkeJJdICuVeduEYT3Ab79neozREXnMdmR93qIg0tlxyFxh0ZeFmgX-h80MlVoT_Po7DXKecDCdTVfCfHhI=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/01/019474/019474a_hb_ro_866_20250305_035246.jpg"
+      }
+    ],
+    "overall_rating": 4.7,
+    "reviews": 12511,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 10556
+      },
+      {
+        "stars": 4,
+        "count": 1197
+      },
+      {
+        "stars": 3,
+        "count": 306
+      },
+      {
+        "stars": 2,
+        "count": 102
+      },
+      {
+        "stars": 1,
+        "count": 350
+      }
+    ],
+    "location_rating": 3.1,
+    "reviews_breakdown": [
+      {
+        "name": "Couples",
+        "description": "Couple friendly",
+        "total_mentioned": 151,
+        "positive": 138,
+        "negative": 7,
+        "neutral": 6
+      },
+      {
+        "name": "Dining",
+        "description": "Food and Beverage",
+        "total_mentioned": 317,
+        "positive": 256,
+        "negative": 46,
+        "neutral": 15
+      },
+      {
+        "name": "Nature",
+        "description": "Nature and outdoor activities",
+        "total_mentioned": 134,
+        "positive": 129,
+        "negative": 3,
+        "neutral": 2
+      },
+      {
+        "name": "Bar",
+        "description": "Bar or lounge",
+        "total_mentioned": 151,
+        "positive": 110,
+        "negative": 25,
+        "neutral": 16
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 924,
+        "positive": 794,
+        "negative": 97,
+        "neutral": 33
+      },
+      {
+        "name": "Room",
+        "description": "Room amenities",
+        "total_mentioned": 315,
+        "positive": 269,
+        "negative": 23,
+        "neutral": 23
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Pools",
+      "Hot tub",
+      "Air conditioning",
+      "Pet-friendly",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Kitchen in some rooms",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "eco_certified": true
+  },
+  {
+    "type": "hotel",
+    "name": "Royal Inci Hotel",
+    "description": "Understated quarters, some with balconies, in a laid-back hotel featuring free Wi-Fi.",
+    "link": "http://www.royalincihotel.com/",
+    "property_token": "ChoIkPyI5tTLp4PzARoNL2cvMTFjNDN6OXNoNBAB",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoIkPyI5tTLp4PzARoNL2cvMTFjNDN6OXNoNBAB&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.0011449,
+      "longitude": 28.798292099999998
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$25",
+      "extracted_lowest": 25
+    },
+    "total_rate": {
+      "lowest": "$76",
+      "extracted_lowest": 76
+    },
+    "nearby_places": [
+      {
+        "name": "Kartaltepe",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "3 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "35 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 16 min"
+          }
+        ]
+      },
+      {
+        "name": "Bele\u015f D\u00f6ner MetroPark",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "3 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "3-star hotel",
+    "extracted_hotel_class": 3,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/mEPLGrG1FEud2kfQdmqFo0APHyvZl8u5SwtfeU2Uy7rFXvkzsaBBhgc1uWiiBNsyBZGNQF0iMo7nuwZwYmDbc2WR_FYaa6NrY7X4aez9y_bjBRsMaiiM6Jze81UsAlRZH440-ny_eR3AyhtSTRXXD5K-V5l9LQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/59/592205/592205a_hb_f_005.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzv9z_Nc-aXavymxJYKDDuxcXPeCLXB58iYS5FAzi2Nc25NnxV7W-h0TDatPscxccPLQsL29vAC6uXT1LdG-c0vdh0gOOwSvQjZ1ojX1r-zkosZe58G1oohuLYPrrI8P9l15qM-=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgID68JHWCA=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzIiFZYPlauWzksF1SOLJnJveWm-dr3Sey372Q5kA9yHOS26d4FmTX0Km5_FwBzEEvlyuMn6bCUIBhcbKVRQhOdKdQ8HKV8lvnQlBvw2gTomOei3jsOUmiFDmOOX_L6TJuSkCY=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICcwoKyHw=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/l9O0l0GtLnAJ2r4htdfHFY3_HUoe2sJFK_GBt1d7suk9lAAwD-LihYOdhFtFWRHp__O_Wzmy_OGglCJ4P_3cNuQuFj1QH3LYji2KLwUrbsYwIAojpR1stQ9l-DleuNog8ELxDxvwIeyvQYtflSqljlNrV2vUy2M=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/59/592205/592205a_hb_f_004.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/ywKHdoXJ2X2pbungOPeTWou9KmqQQgC2U6g6IQ9MrBaH84ZPBQwHqZYUJjf9XgCl-AGmYJ9S0JxDmtIEeEzobE0xdC_Fn8RbBqd3yEc0yfjbiVvApI4M-RRkNIdtcZ95eOFNELh8ArDyGhMAayD2G-AzmHb42OY=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://cdn.worldota.net/t/1024x768/extranet/4f/b7/4fb7f8648821c70e03ec9151521e1c0126ddc512.jpeg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/EFTZnZRgbrYDy0wSBDDG-m5BlxYFPVyJ0nRGYiNaJ7QLIHlae9fa1sn5dOErriYew16G5tDAnocWjTnJEe5oDcR3FTffWpzQ338sG5J2XEN66SrocQaXtX1fagTv-7RdYgscSXVPIh01GW7q6jf0i1ybmRCr7A=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/59/592205/592205a_hb_t_001.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/_j241rjvntfANHMXlfAHqNN6OApjfirxjUFAgWKbzI7pjqJhjRhmESAzhhypCCkKLUh8ylWFPcV9SUr93BGquym4bT_sHFAcEZi6CQL8tA2p7EuuYDowHzBUJCgIhs9aswNCxI5wckcNKewJIgn4ethtrPpsTg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/59/592205/592205a_hb_f_003.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/nnKS7qGFLFeAhfAcxW5b97bUfGKzNLUeUEzsb1HieyzOcTyoy39D0_L4XytNVuSFyUhcmbTjRo_rwAX7azPzQhdBpCj7pOrOFZGr1pGGusmh1IRNFdkrwrQzlPBk6AWMmBxFnu6EozaZb5e6biWK46Q24VEt3w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/59/592205/592205a_hb_ba_001.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/tEGiqWFqo5GT5vu6ssmQApmGKyFvdenoyIGX3CdPOmAC5BrZ_Kk2tjJAAs5wekc-bo_SdA4aGf3ZQxMjJUBGX-edc8ZXWjzEEDxgiB9e1hdGWQ-_EuRfmFdrC-dNgXLA4ObbBYyIed-3LCRJb3iek7R1B332t24=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/c2/99/e6/royal-inci-airport-hotel.jpg?w=2100&h=1400&s=1"
+      }
+    ],
+    "overall_rating": 3.7,
+    "reviews": 1295,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 579
+      },
+      {
+        "stars": 4,
+        "count": 266
+      },
+      {
+        "stars": 3,
+        "count": 180
+      },
+      {
+        "stars": 2,
+        "count": 77
+      },
+      {
+        "stars": 1,
+        "count": 193
+      }
+    ],
+    "location_rating": 3.5,
+    "reviews_breakdown": [
+      {
+        "name": "Transit",
+        "description": "Public transit",
+        "total_mentioned": 50,
+        "positive": 33,
+        "negative": 10,
+        "neutral": 7
+      },
+      {
+        "name": "Sleep",
+        "description": "Sleep",
+        "total_mentioned": 63,
+        "positive": 10,
+        "negative": 39,
+        "neutral": 14
+      },
+      {
+        "name": "Parking",
+        "description": "Parking",
+        "total_mentioned": 20,
+        "positive": 6,
+        "negative": 11,
+        "neutral": 3
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 148,
+        "positive": 103,
+        "negative": 40,
+        "neutral": 5
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 126,
+        "positive": 85,
+        "negative": 37,
+        "neutral": 4
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 157,
+        "positive": 104,
+        "negative": 38,
+        "neutral": 15
+      }
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Pet-friendly",
+      "Room service",
+      "Airport shuttle",
+      "Kid-friendly"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Mugwort Hotel & Spa Istanbul",
+    "description": "Relaxed hotel featuring simple rooms & suites, some with whirlpool tubs, plus a spa with a sauna.",
+    "link": "http://www.mugworthotel.com/",
+    "property_token": "ChkIyfOux8Dr64p8Gg0vZy8xMWozcTNwaGN6EAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIyfOux8Dr64p8Gg0vZy8xMWozcTNwaGN6EAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.0186912,
+      "longitude": 28.651355799999997
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$36",
+      "extracted_lowest": 36
+    },
+    "total_rate": {
+      "lowest": "$107",
+      "extracted_lowest": 107
+    },
+    "deal": "30% less than usual",
+    "deal_description": "Great Deal",
+    "nearby_places": [
+      {
+        "name": "Nostalgia Museum",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "9 min"
+          }
+        ]
+      },
+      {
+        "name": "Modernist Evleri",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "47 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 40 min"
+          }
+        ]
+      },
+      {
+        "name": "a99 kitchen",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "1 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "4-star hotel",
+    "extracted_hotel_class": 4,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNgvD-GXPvnDDTM8hkrcSSSmUYbqHos9uD17dd_=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNgvD-GXPvnDDTM8hkrcSSSmUYbqHos9uD17dd_=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPAvw4BBbjf9dRnZaaf7kfabPpqTFYRi_3lLgOe=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPAvw4BBbjf9dRnZaaf7kfabPpqTFYRi_3lLgOe=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyU4mWypVDfZlCCpk_LDvMKj4Mlb7uAV9wCf8-RcacvdhrdLo5mJAHXXxIHvLv624cyDi9eWxIRW3qt3CPQGJVXtZyM5qWeP2nLkVyLVoJR9NcsfQhDCzy7MT5ORsHJhmI1gSJtvg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/CIHM0ogKEICAgICcvsvl4gE=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM4vxoFTtoii-3liERyeFpECW-Qi_xXPqpOAdfU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM4vxoFTtoii-3liERyeFpECW-Qi_xXPqpOAdfU=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNotbzcp5RYBZCFQjw7KKZheUIN21_Pqmovk1Ab=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNotbzcp5RYBZCFQjw7KKZheUIN21_Pqmovk1Ab=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOUHuQ08h72-tzqXIweGCQyMGyw0qYzZ7yYxIJs=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOUHuQ08h72-tzqXIweGCQyMGyw0qYzZ7yYxIJs=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/EAWVsp3YePtsyHKf6mPYK-E3V4yjrV3T57A9_PmhW5w7AUbKJcWCJCcKyQerWpt-E4Hg7SxeRnAqYa6JqZRfMb6a11FXgUYAQcwXfdefWQr1KDtN7Bed8mI_AcXVBUTdkd0jNlrInsZx8fMn31qW8-0Ky1bC31g=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/45000000/44340000/44336300/44336239/47935b4a_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMn4yHHp5gL7qyA21Hf9emOKwePXOT5OJBAYCRu=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMn4yHHp5gL7qyA21Hf9emOKwePXOT5OJBAYCRu=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPrxqVZV1SGJgNYlKEw3Z9OCNIWKoKa-gg4FtOj=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPrxqVZV1SGJgNYlKEw3Z9OCNIWKoKa-gg4FtOj=s10000"
+      }
+    ],
+    "overall_rating": 4,
+    "reviews": 344,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 170
+      },
+      {
+        "stars": 4,
+        "count": 74
+      },
+      {
+        "stars": 3,
+        "count": 50
+      },
+      {
+        "stars": 2,
+        "count": 14
+      },
+      {
+        "stars": 1,
+        "count": 36
+      }
+    ],
+    "location_rating": 3.1,
+    "reviews_breakdown": [
+      {
+        "name": "Wellness",
+        "description": "Wellness",
+        "total_mentioned": 19,
+        "positive": 15,
+        "negative": 4,
+        "neutral": 0
+      },
+      {
+        "name": "Spa",
+        "description": "Spa",
+        "total_mentioned": 13,
+        "positive": 12,
+        "negative": 1,
+        "neutral": 0
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 19,
+        "positive": 12,
+        "negative": 5,
+        "neutral": 2
+      },
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 57,
+        "positive": 33,
+        "negative": 21,
+        "neutral": 3
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 37,
+        "positive": 27,
+        "negative": 8,
+        "neutral": 2
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 46,
+        "positive": 30,
+        "negative": 12,
+        "neutral": 4
+      }
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Santa Sophia Hotel",
+    "description": "Polished lodging offering free Wi-Fi & breakfast, plus 2 restaurants, a bar & fitness facilities.",
+    "link": "http://www.santasophiahotel.com/",
+    "property_token": "ChcIkuLXucLzzNtnGgsvZy8xdGdtbXFkeBAB",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChcIkuLXucLzzNtnGgsvZy8xdGdtbXFkeBAB&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.007146899999995,
+      "longitude": 28.9706961
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "11:00\u202fAM",
+    "rate_per_night": {
+      "lowest": "$36",
+      "extracted_lowest": 36
+    },
+    "total_rate": {
+      "lowest": "$107",
+      "extracted_lowest": 107
+    },
+    "deal": "49% less than usual",
+    "deal_description": "Great Deal",
+    "nearby_places": [
+      {
+        "name": "Sultanahmet Square",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "6 min"
+          }
+        ]
+      },
+      {
+        "name": "\u00c7emberl\u0131ta\u015f",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "4 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "48 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 24 min"
+          }
+        ]
+      },
+      {
+        "name": "Hanzade Terrace Restaurant",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "3-star hotel",
+    "extracted_hotel_class": 3,
+    "images": [
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/KiRFgm1RKbxNS0M7wFEGIInyunsVqGR_k1neSsRVpKM8agC649l4xI-S3dTGrTVBDeW9Gw1izUY50LuyKvGjA5n9VTdIQiLeKNjFJyNi6f44pAYNHiC_Z_J2t342_KeCmQffhUNitgR_JesAS0wXHJYDN5zEnA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/1000000/560000/559100/559065/a21e492e_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNh0DJUWf0YYj9GXjkQujjI1Q0HjalhDQRHcioE=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNh0DJUWf0YYj9GXjkQujjI1Q0HjalhDQRHcioE=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNaOQrYFYfyfFruIuNzEgrt1IyiO8rcopHgp8co=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNaOQrYFYfyfFruIuNzEgrt1IyiO8rcopHgp8co=s10000"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/wfpR_bIo4-IhtEOgxXsV-Wkdzikgr6jHdAzrFh0N7Zv6rgAlrsGdVzm9rgb-u4Z1HQNjNRkujMfuKYUaJ0xBgMIM7jUyMUrFXTRNjO-5ez6KHcREUh1ZkLUUrXGd00-xlQMrm2aNSC1J8FKfX0ucsc8hd0hjAA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://i.giatamedia.com/m.php?m=AQABAAAAla4KAPijcgYFAPx_PND4zB4ikcWjSMJjVu4"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO8iQ42G1f4g8MitvCl5MekMVCcvUPde5j6Xy8m=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO8iQ42G1f4g8MitvCl5MekMVCcvUPde5j6Xy8m=s10000"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/JVDR6ao7uOIjVg7__Ib0Bc5orHt-ZXj9Sg6S-BiJAZaigr-9TbXZaPHkFdddaX_Ui6RqLJfjkzG0j7iO8BV5bBA30LyQ4SPrwjjNMDFokHoF78XlbE8OpUXMwJNHExl_uYU5afc0iZXRrDWqCPTN38W4cQSZp8w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/07/072279/072279a_hb_l_005.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/zmmAgVMcSiORI3xsj1nU_DJhsPeU1M7cNdGVB2qxPOr7R_RCEAM552YA-G1EneMJb-v-IsgauUKnOx884gQpvxS_BNvTzfPBBg5l51DRg7tHN6qZpk8-RI9M1zhYBAyDigxkxei7N077MmX6r4Dgvo8iJiLOWgU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/79/09/0a/santa-sophia-hotel.jpg?w=2100&h=1400&s=1"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/biaAT_KDobxXIEZMOKhq0b-exsB3phwNIa06vf6KATwygb1pseJh2DbJmT_MtLiHwmQFl6nE03lg5vOva-f7ulEYpb2b-I8iDx9GQIJSJMHr1pGNW0j1O8NmIqlEW25UftrBEoUI1v12Apm2u23unNy8kJYJf5A=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/0b/c5/09/santa-sophia-hotel.jpg?w=2100&h=1400&s=1"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/iJ-aOpIExKDxqPrMi_NHegY1Cc0aFk8RuRjuDeLunIYWCZYK7unJmCV1yZPwePFDLJMtzhiKd8iiEwYVwJOHMUeer4kI9pos33sqQVK59ak4WWBtp45hadwF0HlphaF9VB7B0il389ouzI0qpHhXLaS57WlimQ=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://photos.hotelbeds.com/giata/original/07/072279/072279a_hb_l_002.jpg"
+      }
+    ],
+    "overall_rating": 3.7,
+    "reviews": 1378,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 700
+      },
+      {
+        "stars": 4,
+        "count": 187
+      },
+      {
+        "stars": 3,
+        "count": 149
+      },
+      {
+        "stars": 2,
+        "count": 80
+      },
+      {
+        "stars": 1,
+        "count": 262
+      }
+    ],
+    "location_rating": 4.9,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 311,
+        "positive": 233,
+        "negative": 63,
+        "neutral": 15
+      },
+      {
+        "name": "Location",
+        "description": "Location",
+        "total_mentioned": 226,
+        "positive": 185,
+        "negative": 25,
+        "neutral": 16
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 72,
+        "positive": 51,
+        "negative": 16,
+        "neutral": 5
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 264,
+        "positive": 157,
+        "negative": 93,
+        "neutral": 14
+      },
+      {
+        "name": "Sleep",
+        "description": "Sleep",
+        "total_mentioned": 87,
+        "positive": 14,
+        "negative": 60,
+        "neutral": 13
+      },
+      {
+        "name": "Bathroom",
+        "description": "Bathroom and toiletries",
+        "total_mentioned": 66,
+        "positive": 10,
+        "negative": 47,
+        "neutral": 9
+      }
+    ],
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Parking",
+      "Air conditioning",
+      "Pet-friendly",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Business center",
+      "Kid-friendly",
+      "Smoke-free property"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Hilton Istanbul Maslak",
+    "description": "Streamlined quarters in a refined hotel offering an indoor pool, a posh restaurant& a cocktail bar.",
+    "link": "https://www.hilton.com/en/hotels/istmahi-hilton-istanbul-maslak/?SEO_id=GMB-EMEA-HI-ISTMAHI",
+    "property_token": "ChkIt9-juNnvwJcFGg0vZy8xMWdmeG5ieDBzEAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIt9-juNnvwJcFGg0vZy8xMWdmeG5ieDBzEAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.1089548,
+      "longitude": 29.022965300000003
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$143",
+      "extracted_lowest": 143
+    },
+    "total_rate": {
+      "lowest": "$429",
+      "extracted_lowest": 429
+    },
+    "nearby_places": [
+      {
+        "name": "Feyziye Mektepleri",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "5 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "29 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 15 min"
+          }
+        ]
+      },
+      {
+        "name": "Maslak Sakl\u0131 Bah\u00e7e & 21 Sahne",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "5-star hotel",
+    "extracted_hotel_class": 5,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPOFXWrhTdSHQDOqvDoVUTfn70JfOJdpizX-ilw=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPOFXWrhTdSHQDOqvDoVUTfn70JfOJdpizX-ilw=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO1_Aw2fABdgtD0dRaoYUGwuWjfsvdN7VTw47U6=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO1_Aw2fABdgtD0dRaoYUGwuWjfsvdN7VTw47U6=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPpgM6YI2rZwHD3WNju275_aMEdLE6ytBxjWmty=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPpgM6YI2rZwHD3WNju275_aMEdLE6ytBxjWmty=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMjHNkSv91lNtE-K7mVxt3DBDgVktz_HDtR8R5K=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMjHNkSv91lNtE-K7mVxt3DBDgVktz_HDtR8R5K=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPjfPyV9MV-4CylHk9LzoMwXp4ZaO5JK9Hfg5J5=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPjfPyV9MV-4CylHk9LzoMwXp4ZaO5JK9Hfg5J5=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOiXZhdcYc6uJ7sgGCTAgLiBbhzrm5yhJJOz0SX=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOiXZhdcYc6uJ7sgGCTAgLiBbhzrm5yhJJOz0SX=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNMpBRXAeTgnzceo6bZ8yCJpjprF1cZfczZmZMB=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNMpBRXAeTgnzceo6bZ8yCJpjprF1cZfczZmZMB=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOHuJ0bUczRZqpGTJpYcS1ccybBFc2x7FhU3_Yh=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOHuJ0bUczRZqpGTJpYcS1ccybBFc2x7FhU3_Yh=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO1qZsVpUr6Mt_Cznbwwq6522XTIPyAqoMOvxQT=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO1qZsVpUr6Mt_Cznbwwq6522XTIPyAqoMOvxQT=s10000"
+      }
+    ],
+    "overall_rating": 4.5,
+    "reviews": 2979,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 2192
+      },
+      {
+        "stars": 4,
+        "count": 456
+      },
+      {
+        "stars": 3,
+        "count": 143
+      },
+      {
+        "stars": 2,
+        "count": 50
+      },
+      {
+        "stars": 1,
+        "count": 138
+      }
+    ],
+    "location_rating": 2.6,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 391,
+        "positive": 309,
+        "negative": 67,
+        "neutral": 15
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 271,
+        "positive": 240,
+        "negative": 25,
+        "neutral": 6
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 83,
+        "positive": 54,
+        "negative": 20,
+        "neutral": 9
+      },
+      {
+        "name": "Business",
+        "description": "Business",
+        "total_mentioned": 62,
+        "positive": 49,
+        "negative": 5,
+        "neutral": 8
+      },
+      {
+        "name": "Wellness",
+        "description": "Wellness",
+        "total_mentioned": 50,
+        "positive": 41,
+        "negative": 6,
+        "neutral": 3
+      },
+      {
+        "name": "Spa",
+        "description": "Spa",
+        "total_mentioned": 45,
+        "positive": 36,
+        "negative": 6,
+        "neutral": 3
+      }
+    ],
+    "amenities": [
+      "Breakfast ($)",
+      "Free Wi-Fi",
+      "Parking ($)",
+      "Indoor pool",
+      "Hot tub",
+      "Air conditioning",
+      "Fitness center",
+      "Spa",
+      "Bar",
+      "Restaurant",
+      "Room service",
+      "Full-service laundry",
+      "Accessible",
+      "Business center",
+      "Kid-friendly"
+    ],
+    "eco_certified": true
+  },
+  {
+    "type": "vacation rental",
+    "name": "Palmy Istiklal",
+    "property_token": "ChoQg9Lms5TPqrDxARoNL2cvMTFtczlyM2ZmZhAC",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChoQg9Lms5TPqrDxARoNL2cvMTFtczlyM2ZmZhAC&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 41.031982421875,
+      "longitude": 28.977540969848633
+    },
+    "check_in_time": "11:00\u202fPM",
+    "check_out_time": "10:30\u202fAM",
+    "rate_per_night": {
+      "lowest": "$51",
+      "extracted_lowest": 51
+    },
+    "total_rate": {
+      "lowest": "$154",
+      "extracted_lowest": 154
+    },
+    "prices": [
+      {
+        "source": "Hoteis.com",
+        "logo": "https://www.gstatic.com/travel-hotels/branding/7725599522425217147.png",
+        "num_guests": 2,
+        "rate_per_night": {
+          "lowest": "$51",
+          "extracted_lowest": 51
+        }
+      }
+    ],
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/D-X8luZr8cjcOlpAP7KFMt9GBhFB5ruLmFV0i0GuzPU_hGCtR-2rxT-2sJAk1dYIHuI_fsb0cqwzYRrWvKMyfh66U_ZaOapUe2UNGv8fY_Hdc88Z_nD7TTuZy8wTljb4pHsh3OWxACTW8s67xuoIO6kGd-NuCg=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/123000000/122980000/122978200/122978148/c18f7127.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/Q8UrURfvZCtUyfCt5UpTxLnAl0auWDX7-Ywr7gWOyxGe7yAzK8ZLciRPoRjkUpCYRDYKMEYIo4mh0u0cn4R9n5Hby6s69m2Olm0UffkRLfSy6MaqW83PRIDtD2zGvK_gvdnXgmIj1kwS_wRUCVf0cIR7vYoQFP8=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/123000000/122980000/122978200/122978148/9a48a615.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/fLQ_MgTb0VG_O4K6mzlAJQF7R20iTT3ZAnArRw-0Ffx05MmRVuozYX0q4WYOyqE75Mkti4XHUjvSzcuwjP6uX4G-yuy0C-gvLKKR3lwk3C22IXGbsOyU3huTRsyv_tkRE7-WXi3K0eAD5JC-Gf1E095rkI330LM=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/123000000/122980000/122978200/122978148/279a5ba8.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/HV25b0_DnWHDsC29uprh65GgWIrgkbSK9Jh62hfXB3ZEwY2suAt_ETjPtUrvJ689s5VKu54GAKWuXODSCqNxw_50VmRagk4lhOkZsv3NFBs0sV90Rsz2yVYnZMtqQpiJ-sdRkcOmkHvw5ib5VGkeKNsXXPjSpFU=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/123000000/122980000/122978200/122978148/fee57f14_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/z-_BXWrDZ9AVyMRI9Ltpn02MxwnmFn9oeDvGImL1aYta2YOb8n4JAg5owI0862nypjB5oZZBorFlkXj_IFdt-zU03wjWWNwPxf2lRFXmtBrNAyBFZRRqGZMCEhfUQgX9TFy6AbKWx66P9DdbtDYwyDM05wcw6w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/123000000/122980000/122978200/122978148/801b1cc7_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/pDOPlcgnysTkweXhqEktBTH6mT6EAXJ13EPWh8M2YuyAy3mmjanSSL1ZsD1YGo1XXXNNxx-11kP6xVXSruhAZ28DgTlgUxEgfmiMdNhs8fK3B9zUjPmYUh9OzUCSY28K7j0aFoQusqnqaeI0tDG9sk9iiA9LgIA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/123000000/122980000/122978200/122978148/7d8a4790.jpg"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/HjWUhHJjauFb4xE9jw_4XPYlWKUqKgzr_c7ktMYvegTpFVb0UNiwgQJiraNg2th_4kJdznyQp0k-q8vb4x-W0Ko0C6pcllwfD_mN5XXvn_VawEqo28C6vuo_lgPyTUoP7YXgzOFo1_33ZMqYsFlVZentz_yzqtA=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://media.vrbo.com/lodging/123000000/122980000/122978200/122978148/25fe51b5.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/N-k26z2_3_VeC7PlXLgJ_JkoNWeNWgKwrCR5ZmbIOfjs1txo9twN2ON6PKl-vmVj7xnAtDwZBspyveTbFgfgIayb0beIwbJXXjso_syhxJQS-iLs5oEf-tOWl0VFspEtGWTk5GyN_TUGiuStfXrtyigc0LJE-Jc=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/123000000/122980000/122978200/122978148/25fe51b5_z.jpg"
+      },
+      {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/UmKkWvc48B__Iu9HWOBqH_6fNDVzYrWdg2v82WU9ziYz8Ojj0FHySmqfG1k5uBGnApFGScCAUOz03Bhn76osQQuIF5EYSR-yxUzl98men1LqQi18I4RXEWPV332Q7eyu8M24dggxKCouc44JhDbmpAfsbU9sfZY=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/123000000/122980000/122978200/122978148/62c4504e_z.jpg"
+      }
+    ],
+    "amenities": [
+      "Air conditioning",
+      "Heating",
+      "Kitchen",
+      "Microwave",
+      "Oven stove",
+      "Pet-friendly",
+      "Washer",
+      "Free Wi-Fi"
+    ],
+    "excluded_amenities": [
+      "No indoor pool",
+      "No outdoor pool"
+    ],
+    "essential_info": [
+      "Entire apartment",
+      "Sleeps 2",
+      "1 bedroom",
+      "1 bathroom",
+      "1 bed"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "Grand Palace Hotel",
+    "description": "Casual rooms, some with balconies, in a low-key hotel offering complimentary parking & breakfast.",
+    "link": "http://www.grandpalaceistanbul.com/",
+    "property_token": "ChkIucub9-vU8NEkGg0vZy8xMWM0YmZmcjg5EAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIucub9-vU8NEkGg0vZy8xMWM0YmZmcjg5EAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.994127999999996,
+      "longitude": 28.839692599999996
+    },
+    "check_in_time": "2:00\u202fPM",
+    "check_out_time": "12:00\u202fPM",
+    "rate_per_night": {
+      "lowest": "$46",
+      "extracted_lowest": 46
+    },
+    "total_rate": {
+      "lowest": "$139",
+      "extracted_lowest": 139
+    },
+    "nearby_places": [
+      {
+        "name": "Ahmet Yesevi Caddesi",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "35 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 6 min"
+          }
+        ]
+      },
+      {
+        "name": "Lider Suru\u00e7 Ocakba\u015f\u0131",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "3 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "3-star hotel",
+    "extracted_hotel_class": 3,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO0pOdT14mxPgds6TLOloBZnLKVxISDaKoLRsO0=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipO0pOdT14mxPgds6TLOloBZnLKVxISDaKoLRsO0=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNfjg0GhLElJauG10QVggzcgyK71-sGr2CZ_p1I=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNfjg0GhLElJauG10QVggzcgyK71-sGr2CZ_p1I=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNTmAM55DsmnSBBy7wytLaEG3kkIiOtCO6hnrTj=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNTmAM55DsmnSBBy7wytLaEG3kkIiOtCO6hnrTj=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMb4TTfZuEiMARBFmIKRJkZ8STXLiwgFfUGTxs4=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMb4TTfZuEiMARBFmIKRJkZ8STXLiwgFfUGTxs4=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMCVrYdUYzkmGCEuSxUDG--5zZz1kVWPh1I0dou=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMCVrYdUYzkmGCEuSxUDG--5zZz1kVWPh1I0dou=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNpepjVwg84_1K5eyeTIeFToWtaCJimRkf_cZkr=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNpepjVwg84_1K5eyeTIeFToWtaCJimRkf_cZkr=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOZWVKKGaB7_GO4eBBcn4SVWMpM4gkrXg7y67UB=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOZWVKKGaB7_GO4eBBcn4SVWMpM4gkrXg7y67UB=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPdPJ_8gRU6RukTx3zSM_d-pZgztxGNHdq3g78T=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipPdPJ_8gRU6RukTx3zSM_d-pZgztxGNHdq3g78T=s10000"
+      },
+      {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/BB7MAbVH1saW3ZsP9KkZAnzyPSnUvuIAxAWjAqHou2Yk5qsAuxBV6xw0FFccle1Ji_pDLkBDnIxMO5sBTUtI8AMKhw2G8EeUzKshgJcMckk7JzO91LvxADIYZNkNSVtiOX6aW1T6f2t4R5hnTDQyucCbA9PHQ74=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://images.trvl-media.com/lodging/14000000/13070000/13063600/13063535/1861d196_z.jpg"
+      }
+    ],
+    "overall_rating": 3.7,
+    "reviews": 1213,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 570
+      },
+      {
+        "stars": 4,
+        "count": 209
+      },
+      {
+        "stars": 3,
+        "count": 179
+      },
+      {
+        "stars": 2,
+        "count": 70
+      },
+      {
+        "stars": 1,
+        "count": 185
+      }
+    ],
+    "location_rating": 3.3,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 156,
+        "positive": 102,
+        "negative": 46,
+        "neutral": 8
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 42,
+        "positive": 23,
+        "negative": 14,
+        "neutral": 5
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 122,
+        "positive": 78,
+        "negative": 37,
+        "neutral": 7
+      },
+      {
+        "name": "Property",
+        "description": "Property",
+        "total_mentioned": 154,
+        "positive": 110,
+        "negative": 38,
+        "neutral": 6
+      },
+      {
+        "name": "Bathroom",
+        "description": "Bathroom and toiletries",
+        "total_mentioned": 36,
+        "positive": 6,
+        "negative": 26,
+        "neutral": 4
+      },
+      {
+        "name": "Transit",
+        "description": "Public transit",
+        "total_mentioned": 25,
+        "positive": 19,
+        "negative": 2,
+        "neutral": 4
+      }
+    ],
+    "amenities": [
+      "Free Wi-Fi",
+      "Air conditioning",
+      "Pet-friendly",
+      "Bar",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Kid-friendly"
+    ]
+  },
+  {
+    "type": "hotel",
+    "name": "The Grand Mira Hotel",
+    "description": "Casual quarters with sea & island views, plus a laid-back restaurant, 2 cafes & a spa.",
+    "link": "https://www.thegrandmira.com/",
+    "property_token": "ChkIg8Ph6onA2Ok6Gg0vZy8xMWJ4ZjEwd3QzEAE",
+    "serpapi_property_details_link": "https://serpapi.com/search.json?adults=2&check_in_date=2025-12-27&check_out_date=2025-12-30&children=0&currency=USD&engine=google_hotels&gl=us&hl=en&property_token=ChkIg8Ph6onA2Ok6Gg0vZy8xMWJ4ZjEwd3QzEAE&q=Istanbul",
+    "gps_coordinates": {
+      "latitude": 40.8887171,
+      "longitude": 29.1823942
+    },
+    "rate_per_night": {
+      "lowest": "$80",
+      "extracted_lowest": 80
+    },
+    "total_rate": {
+      "lowest": "$239",
+      "extracted_lowest": 239
+    },
+    "nearby_places": [
+      {
+        "name": "\u00dcsk\u00fcdar Caddesi",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      },
+      {
+        "name": "Istanbul Airport",
+        "transportations": [
+          {
+            "type": "Taxi",
+            "duration": "1 hr 7 min"
+          },
+          {
+            "type": "Public transport",
+            "duration": "1 hr 57 min"
+          }
+        ]
+      },
+      {
+        "name": "CENGOW\u0130CH",
+        "transportations": [
+          {
+            "type": "Walking",
+            "duration": "2 min"
+          }
+        ]
+      }
+    ],
+    "hotel_class": "4-star hotel",
+    "extracted_hotel_class": 4,
+    "images": [
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNgivpS21M20q_wk8NO8-YTjWT_uHxNMwfF1U8h=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNgivpS21M20q_wk8NO8-YTjWT_uHxNMwfF1U8h=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMgIpbE95XTRsJGQRvRfz4PRp4lf0nJgBdaQu2c=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMgIpbE95XTRsJGQRvRfz4PRp4lf0nJgBdaQu2c=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOLN3BxRDGYOmb8o9m6Z_3KGhLfgKDFV2haL0DD=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOLN3BxRDGYOmb8o9m6Z_3KGhLfgKDFV2haL0DD=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNJvSb7E16h0KjRIBjF7R0j3vNfvM_mBSOFRKVC=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipNJvSb7E16h0KjRIBjF7R0j3vNfvM_mBSOFRKVC=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipM7yWdT8RhENT3_Rs9BeOC4ntQwZ8fI9Yk9bGnR=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipM7yWdT8RhENT3_Rs9BeOC4ntQwZ8fI9Yk9bGnR=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOoQzXQpxMolvLxU-nVhvXfBkoAtQRJoZ4WJO2w=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOoQzXQpxMolvLxU-nVhvXfBkoAtQRJoZ4WJO2w=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOBY1YRfBO1jcjyUvm19qmSVkSO-JIWW8mAgrvj=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipOBY1YRfBO1jcjyUvm19qmSVkSO-JIWW8mAgrvj=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMTm0Jd5zZ6vD4zPvBG5sKg0rbmib15Y1C2Il7e=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipMTm0Jd5zZ6vD4zPvBG5sKg0rbmib15Y1C2Il7e=s10000"
+      },
+      {
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN7nk25FRHmgWFn_BiUtnoewEVm8NrAeK736Hej=s287-w287-h192-n-k-no-v1",
+        "original_image": "https://lh5.googleusercontent.com/p/AF1QipN7nk25FRHmgWFn_BiUtnoewEVm8NrAeK736Hej=s10000"
+      }
+    ],
+    "overall_rating": 4.5,
+    "reviews": 2302,
+    "ratings": [
+      {
+        "stars": 5,
+        "count": 1724
+      },
+      {
+        "stars": 4,
+        "count": 304
+      },
+      {
+        "stars": 3,
+        "count": 119
+      },
+      {
+        "stars": 2,
+        "count": 52
+      },
+      {
+        "stars": 1,
+        "count": 103
+      }
+    ],
+    "location_rating": 2.9,
+    "reviews_breakdown": [
+      {
+        "name": "Service",
+        "description": "Service",
+        "total_mentioned": 434,
+        "positive": 403,
+        "negative": 22,
+        "neutral": 9
+      },
+      {
+        "name": "Breakfast",
+        "description": "Breakfast",
+        "total_mentioned": 123,
+        "positive": 104,
+        "negative": 13,
+        "neutral": 6
+      },
+      {
+        "name": "Dining",
+        "description": "Food and Beverage",
+        "total_mentioned": 88,
+        "positive": 82,
+        "negative": 5,
+        "neutral": 1
+      },
+      {
+        "name": "Parking",
+        "description": "Parking",
+        "total_mentioned": 32,
+        "positive": 24,
+        "negative": 6,
+        "neutral": 2
+      },
+      {
+        "name": "Room",
+        "description": "Room amenities",
+        "total_mentioned": 94,
+        "positive": 57,
+        "negative": 30,
+        "neutral": 7
+      },
+      {
+        "name": "Cleanliness",
+        "description": "Cleanliness",
+        "total_mentioned": 215,
+        "positive": 194,
+        "negative": 14,
+        "neutral": 7
+      }
+    ],
+    "amenities": [
+      "Free breakfast",
+      "Free Wi-Fi",
+      "Free parking",
+      "Hot tub",
+      "Air conditioning",
+      "Restaurant",
+      "Room service",
+      "Airport shuttle",
+      "Full-service laundry",
+      "Accessible",
+      "Kid-friendly"
+    ]
+  }
+]

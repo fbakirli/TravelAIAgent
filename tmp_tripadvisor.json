@@ -1,0 +1,609 @@
+{
+    "search_metadata": {
+      "id": "694c595e6e223724089b4165",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/58897388ef826b9b/694c595e6e223724089b4165.json",
+      "created_at": "2025-12-24 21:21:34 UTC",
+      "processed_at": "2025-12-24 21:21:34 UTC",
+      "tripadvisor_url": "https://www.tripadvisor.com/Search?q=Tbilisi&ssrc=a&geo=1&offset=0&limit=30",
+      "raw_html_file": "https://serpapi.com/searches/58897388ef826b9b/694c595e6e223724089b4165.html",
+      "prettify_html_file": "https://serpapi.com/searches/58897388ef826b9b/694c595e6e223724089b4165.prettify",
+      "total_time_taken": 1.93
+    },
+    "search_parameters": {
+      "engine": "tripadvisor",
+      "q": "Tbilisi",
+      "tripadvisor_domain": "www.tripadvisor.com",
+      "ssrc": "a",
+      "offset": 0,
+      "limit": 30
+    },
+    "places": [
+      {
+        "position": 1,
+        "title": "Old Town Tbilisi",
+        "place_type": "ATTRACTION",
+        "place_id": "2301874",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d2301874-Reviews-Old_Town_Tbilisi-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=2301874&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.6,
+        "reviews": 3314,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/8a/ae/24/tbilisi.jpg",
+        "highlighted_review": {
+          "text": "A must-visit for anyone in Tbilisi \ud83c\uddec\ud83c\uddea\u2728!",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 637
+        }
+      },
+      {
+        "position": 2,
+        "title": "Tbilisi",
+        "place_type": "GEO",
+        "place_id": "294195",
+        "link": "https://www.tripadvisor.com/Tourism-g294195-Tbilisi-Vacations.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=294195&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Georgia\u2019s capital, Tbilisi, is straight from the pages of a Gothic fairytale. A deep valley forms the backdrop to brightly colored turrets, cobblestoned streets, and a burgeoning art scene, while warm Georgian hospitality permeates the mix of contemporary and traditional restaurants serving up local favorites.",
+        "location": "Georgia, Europe",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/2d/46/59/photo3jpg.jpg"
+      },
+      {
+        "position": 3,
+        "title": "The Bridge of Peace",
+        "place_type": "ATTRACTION",
+        "place_id": "3803143",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d3803143-Reviews-The_Bridge_of_Peace-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=3803143&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.4,
+        "reviews": 4450,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/20/74/c0/the-bridge-of-peace.jpg",
+        "highlighted_review": {
+          "text": "The Bridge of Peace is one of Tbilisi\u2019s most stunning landmarks.",
+          "highlighted_texts": [
+            "Tbilisi\u2019s"
+          ],
+          "mention_count": 718
+        }
+      },
+      {
+        "position": 4,
+        "title": "Narikala Fortress",
+        "place_type": "ATTRACTION",
+        "place_id": "459960",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d459960-Reviews-Narikala_Fortress-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=459960&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.4,
+        "reviews": 1995,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/14/0b/0a/caption.jpg",
+        "highlighted_review": {
+          "text": "A Bit of History\r\nNarikala has been a symbol of Tbilisi's resilience, withstanding",
+          "highlighted_texts": [
+            "Tbilisi's"
+          ],
+          "mention_count": 436
+        }
+      },
+      {
+        "position": 5,
+        "title": "Rustaveli Avenue",
+        "place_type": "ATTRACTION",
+        "place_id": "2390164",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d2390164-Reviews-Rustaveli_Avenue-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=2390164&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.2,
+        "reviews": 1428,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c0/33/a3/photo1jpg.jpg",
+        "highlighted_review": {
+          "text": "Rustaveli Avenue truly captures the spirit of Tbilisi. \ud83c\udf1f",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 257
+        }
+      },
+      {
+        "position": 6,
+        "title": "Funicular Restaurant Complex",
+        "place_type": "EATERY",
+        "place_id": "4700470",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d4700470-Reviews-Funicular_Restaurant_Complex-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=4700470&tripadvisor_domain=www.tripadvisor.com",
+        "description": "High above Tbilisi you'll find the city's most stylish centre for fine food and drink: the Funicular Restaurant Complex. Located in a much loved and carefully restored historic city landmark, the Complex enjoys stunning views across the city. Equally dazzling is the range of five separate wining and dining options on offer. In our restaurants fine dishes are cooked on the spot for you, using only fresh and sustainable ingredients.",
+        "rating": 4.2,
+        "reviews": 1813,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/07/a1/d0/restaurant-funicular.jpg",
+        "highlighted_review": {
+          "text": "A Must-Visit Dining Experience at Funicular Restaurant \u2013 Tbilisi\u2019s Best",
+          "highlighted_texts": [
+            "Tbilisi\u2019s"
+          ],
+          "mention_count": 319
+        }
+      },
+      {
+        "position": 7,
+        "title": "Barbarestan",
+        "place_type": "EATERY",
+        "place_id": "8767849",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d8767849-Reviews-Barbarestan-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=8767849&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Barbarestan is a little untypical Georgian restaurant for Tbilisi. In fact, its a cozy Georgian apartment where a big, noisy and hospitable family lives, as the owners of the restaurant are happy parents of 10 kids! For this new project creative team of \"Gastonaut\" has set a plan - to make high-quality Georgian cuisine in much more interesting style, but still available to all, without lowering the interior concept, creativity in menu and fantastic service. Barbarestan offers interesting Georgian food, borrowed from unique recipe book of the 19th century duchess Barbara Jorjadze. Menu of \"Barbarestan\" was modified and adapted to modern standards by well-known Georgian chef Levan Kobiashvili. Cuisine of \"Barbarestan\" can be called homestyle cuisine for sure, the distinctive feature of which is the fact that many items on the menu are unfamiliar to metropolitan gourmets! Of course, the basis of the menu consists of traditional dishes, but the taste of even the standard foods is markedly different from that to which are accustomed in Tbilisi. After all, we use only Georgian bio or village products, all food is prepared directly in the restaurant by old family recipes that we have borrowed from Jorjadzes cook book. Its Just a small restaurant - 700 seats in two halls and a private room for 10 people in the cellar. Grandma's like an old ragged furniture, colorful rugs, various antique things, brick walls, greenery and fresh wild flowers everywhere. There is no unity - all the chairs, tables and even the utensils - everything is different. The historic wine cellar of the 19th century is an obvious pride of the restaurant. VIP cabinet - for cozy evenings with friends- center of gravity in this room - antique fireplace. Musical accompaniment from the first minute plunges into the atmosphere of nostalgic memories of classic georgian songs... Of course, to fully understand the charm of this house, you should at least once to look in on a soft light of its lampshade.",
+        "rating": 4.6,
+        "reviews": 1627,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/6b/d8/d8/barbarestan.jpg",
+        "highlighted_review": {
+          "text": "exceptional food and service for anyone that is looking for luxury dining in Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 309
+        }
+      },
+      {
+        "position": 8,
+        "title": "Rooms Hotel",
+        "place_type": "ACCOMMODATION",
+        "place_id": "7171589",
+        "link": "https://www.tripadvisor.com/Hotel_Review-g294195-d7171589-Reviews-Rooms_Hotel-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=7171589&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Set in the heart of Tbilisi's neighborhood, Vera, Rooms Hotel Tbilisi's doors are open to anyone willing to get an invaluable experience. It is so much more than a 125 guest room hotel. It is a destination of its own. Architects of this project have successfully transformed this former industrial building of an old publishing house into a contemporary 8-story hotel. The essence and history of the building is retained, capturing the raw post-industrial and offbeat bohemian vibe that has come to define this part of the capital city. Everything has a regal sophisticated feel blended with a touch of tasteful modernism. Rich with character it is designed for a flawless and comfortable stay. Everything here is delightfully unique and inspiring that oozes class and sexiness. Neighborhood offers laidback hangout. Authentic and local experience obtained at Rooms Hotel Tbilisi cannot be recreated any place else. Surely, there is a certain distinct New York sensibility to the Hotel. Here you will encounter a contrasting crew of corporate types, artists, musicians and other creative people who congregate to eat, drink and socialize.",
+        "rating": 4.6,
+        "reviews": 1283,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/d1/15/8a/local-area.jpg",
+        "highlighted_review": {
+          "text": "Thank you, Rooms Tbilisi, for treating me like family!",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 433
+        }
+      },
+      {
+        "position": 9,
+        "title": "Iveria Cafe",
+        "place_type": "EATERY",
+        "place_id": "10755029",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d10755029-Reviews-Iveria_Cafe-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=10755029&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Just 50 meters from the hotel's main building is the Iveria Caf\u00e9, where you can join us for breakfast or try one of our tasty sandwiches made with freshly baked bread. While you're here, grab an Italian coffee and a dessert as you watch the Mtkvari River and the bustle of the city.",
+        "rating": 4.8,
+        "reviews": 941,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a9/94/05/caption.jpg",
+        "highlighted_review": {
+          "text": "Visited this cafe during city tour around tbilisi.. its just near giant",
+          "highlighted_texts": [
+            "tbilisi.."
+          ],
+          "mention_count": 159
+        }
+      },
+      {
+        "position": 10,
+        "title": "Tbilisi Walking Tour Including Cable Car and Traditional Bakery",
+        "place_type": "ATTRACTION_PRODUCT",
+        "place_id": "15615885",
+        "link": "https://www.tripadvisor.com/AttractionProductReview-g294195-d15615885-Tbilisi_Walking_Tour_Including_Cable_Car_and_Traditional_Bakery-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=15615885&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Discover the best of Tbilisi on this walking tour that takes you to many of the city's most important landmarks, as well as some hidden gems that most travelers miss. Learn all about the history and culture of the Georgian capital as your guide takes you to such sites as Metekhi Church, the monumental Mother of Georgia statue, and the fortress of Narikala.",
+        "rating": 5,
+        "reviews": 1162,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/2b/20/17/caption.jpg",
+        "highlighted_review": {
+          "text": "She was incredibly insightful, friendly, and passionate about sharing Tbilisi\u2019s",
+          "highlighted_texts": [
+            "Tbilisi\u2019s"
+          ],
+          "mention_count": 547
+        }
+      },
+      {
+        "position": 11,
+        "title": "Tbilisi Hack Free Tours",
+        "place_type": "ATTRACTION",
+        "place_id": "9743629",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d9743629-Reviews-Tbilisi_Hack_Free_Tours-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=9743629&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Come join a 3-hour walking tour around the old town of Tbilisi! A tour with fairy tales of kings and queens, devastating battles, courageous Georgian warriors, intrigues and power struggles! You will see the famous city landmarks and hear about why the Georgians are the happiest people in the world. provide all of our guests with the best tour of Tbilisi regardless of their finances.",
+        "rating": 4.9,
+        "reviews": 1533,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/8b/fd/50/new-logo.jpg",
+        "highlighted_review": {
+          "text": "of Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 615
+        }
+      },
+      {
+        "position": 12,
+        "title": "Funicular",
+        "place_type": "ATTRACTION",
+        "place_id": "4048671",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d4048671-Reviews-Funicular-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=4048671&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.4,
+        "reviews": 2369,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/46/3f/6e/photo0jpg.jpg",
+        "highlighted_review": {
+          "text": "From here, you get a breathtaking panoramic view of Tbilisi, making it",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 388
+        }
+      },
+      {
+        "position": 13,
+        "title": "Aerial Tramway in Tbilisi",
+        "place_type": "ATTRACTION",
+        "place_id": "3574806",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d3574806-Reviews-Aerial_Tramway_in_Tbilisi-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=3574806&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.6,
+        "reviews": 3208,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/fe/10/e1/the-amazing-panoramic.jpg",
+        "highlighted_review": {
+          "text": "I was rather confused during the first two days in Tbilisi until later",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 511
+        }
+      },
+      {
+        "position": 14,
+        "title": "Umami Asian Fusion Restaurant",
+        "place_type": "EATERY",
+        "place_id": "7805418",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d7805418-Reviews-Umami_Asian_Fusion_Restaurant-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=7805418&tripadvisor_domain=www.tripadvisor.com",
+        "description": "This outstanding Asian Fusion restaurant features an open kitchen, allowing guests to view the chef's craft. Try fresh sushi or something sizzling from the menu showcasing anything from teppanyaki or teriyaki. Umami offers a range of authentic dishes from Asia as well as some newer signature dishes created by the Radisson Blu Asian chefs. Enjoy a great meal in an informal, yet stylish setting with authentic interior and traditional Asian music.",
+        "rating": 4.7,
+        "reviews": 1320,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/d7/8f/ee/caption.jpg",
+        "highlighted_review": {
+          "text": "Hands down the best Asian restaurant in Tbilisi!",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 332
+        }
+      },
+      {
+        "position": 15,
+        "title": "Radisson Blu Iveria Hotel, Tbilisi City Centre",
+        "place_type": "ACCOMMODATION",
+        "place_id": "1474950",
+        "link": "https://www.tripadvisor.com/Hotel_Review-g294195-d1474950-Reviews-Radisson_Blu_Iveria_Hotel_Tbilisi_City_Centre-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=1474950&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Found in the heart of Georgia's capital city, Tbilisi, this hotel is nestled between the beautiful Mtkvari River and nearby mountain ranges and is the best destination to enjoy the city to the fullest. Our 236 rooms and suites provide free high-speed Wi-Fi and stunning views of Mtatsminda, the city's historic hill, or of the river landscape. Step outside to find dining, shopping, and nightlife on Rustaveli Avenue. You can visit nearby attractions like Old Town and the Narikala Fortress. Savor Italian dishes at Filini Restaurant, Asian fusion fare at Umami, or dine outdoors at Iveria Terrace during summer. Try your luck at Casino Iveria or spoil yourself with premium treatments from Anne Semonin Spa. You are invited to refresh at the relaxing outdoor pool or visit our rooftop infinity pool located on the 18th floor of the hotel, offering magnificent city views.",
+        "rating": 4.5,
+        "reviews": 1554,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/1d/c5/7f/oasis-pool.jpg",
+        "highlighted_review": {
+          "text": "We stayed at Radisson Blu Iveria Hotel, Tbilisi City Centre for four nights",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 432
+        }
+      },
+      {
+        "position": 16,
+        "title": "Tbilisi Free Walking Tours",
+        "place_type": "ATTRACTION",
+        "place_id": "10153935",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d10153935-Reviews-Tbilisi_Free_Walking_Tours-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=10153935&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Main sights of beautiful Old Tbilisi within several hours. From Liberty Square through old city walls to the lovely Marionette Theater, cozy pedestrian streets of old town and more. Our Tour in Tbilisi takes place every day (rain, shine or snow). Just come to our meeting point at Pushkin Park (Freedom Square ) in front of the Tourist information Center and look for the local guide with Badge or with branded bag Tbilisi Free Walking Tours. Booking is required.",
+        "rating": 4.9,
+        "reviews": 696,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/4f/cb/e5/official-logo.jpg",
+        "highlighted_review": {
+          "text": "It was so interesting learning about the history of Tbilisi and seeing",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 401
+        }
+      },
+      {
+        "position": 17,
+        "title": "Kartlis Deda",
+        "place_type": "ATTRACTION",
+        "place_id": "7020918",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d7020918-Reviews-Kartlis_Deda-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=7020918&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.1,
+        "reviews": 1082,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/c1/2c/b4/caption.jpg",
+        "highlighted_review": {
+          "text": "strength. \ud83d\udcaa\ud83c\udf77\n\nThe views from the hill are breathtaking, overlooking Tbilisi\u2019s",
+          "highlighted_texts": [
+            "ilisi\u2019s"
+          ],
+          "mention_count": 181
+        }
+      },
+      {
+        "position": 18,
+        "title": "Day Trip to Mtskheta Gori and Uplistsikhe",
+        "place_type": "ATTRACTION_PRODUCT",
+        "place_id": "13147245",
+        "link": "https://www.tripadvisor.com/AttractionProductReview-g294195-d13147245-Day_Trip_to_Mtskheta_Gori_and_Uplistsikhe-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=13147245&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Discover the historical wonders of Georgia on a group tour from Tbilisi. The full-day excursion is great for travelers who are short on time, but want to experience\u00a0the country to its fullest. With round-trip transportation from your hotel, there\u2019s no need to fuss over navigation or public buses. Enjoy guided visits to the UNESCO World Heritage Site of Mtskheta, Gori, and much more, before your return to the city.",
+        "rating": 4.9,
+        "reviews": 1569,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/52/d6/72/caption.jpg",
+        "highlighted_review": {
+          "text": "I will highly recommend him if visiting Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 168
+        }
+      },
+      {
+        "position": 19,
+        "title": "Day Trip to Kazbegi and Gudauri",
+        "place_type": "ATTRACTION_PRODUCT",
+        "place_id": "14986137",
+        "link": "https://www.tripadvisor.com/AttractionProductReview-g294195-d14986137-Day_Trip_to_Kazbegi_and_Gudauri-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=14986137&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Spend the day away from Tbilisi and in the beautiful natural landscapes of Georgia on a group tour. Leave from a centrally located meeting point and venture into the Caucasus Mountains to visit the ancient Ananuri fortress, the ski resort town of Gudauri to enjoy a delicious Georgian lunch (at your own expense), the beautiful Gergeti Trinity Church in Kazbegi, and much more.",
+        "rating": 4.9,
+        "reviews": 1877,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/4e/a3/fc/caption.jpg",
+        "highlighted_review": {
+          "text": "with my girlfriend and her brother as part of a long weekend trip to Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 140
+        }
+      },
+      {
+        "position": 20,
+        "title": "Organique Josper Grill Bar",
+        "place_type": "EATERY",
+        "place_id": "3691812",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d3691812-Reviews-Organique_Josper_Grill_Bar-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=3691812&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Welcome to Organique Josper Bar to experience original taste of natural Georgian products. Fire magic of charcoal grill Josper combined with the experience of our chef creates simple yet beautiful symphony on your plate. The meat based menu is perfectly accompanied by carefully picked selection of organic Georgian wines. With its simple, light and friendly ambience Organique is truly loved by the guests from all over the world.",
+        "rating": 4.5,
+        "reviews": 1435,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f2/1c/32/t-bone-steak-and-smoked.jpg",
+        "highlighted_review": {
+          "text": "If you want to have an amazing experience in Tbilisi, visit Organique Josper",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 264
+        }
+      },
+      {
+        "position": 21,
+        "title": "Mtatsminda Amusement Park",
+        "place_type": "ATTRACTION",
+        "place_id": "4187226",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d4187226-Reviews-Mtatsminda_Amusement_Park-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=4187226&tripadvisor_domain=www.tripadvisor.com",
+        "description": "This mountaintop park offers great fun and amazing peak views. Ride the Tbilisi Funicular to reach the top and before entering the park, stop by the overlook to enjoy the vistas from Tbilisi\u2019s highest point. Have a go on the massive Ferris wheel, Ghost Castle dark ride, carousels and water slides\u2014all while you're at over 2,500 feet above sea level. Stick around till after dark to enjoy the Tbilisi city lights from above. Entrance to the park is free though there's a fee for individual attractions and the funicular. There are also 1-day entrance tickets available for unlimited access to rides. \u2013 Tripadvisor",
+        "rating": 4.1,
+        "reviews": 1140,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/76/f2/bf/roller-coaster.jpg",
+        "highlighted_review": {
+          "text": "Mtatsminda Amusement Park is a great place to spend a day in Tbilisi, especially",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 159
+        }
+      },
+      {
+        "position": 22,
+        "title": "Tbilisi Marriott Hotel",
+        "place_type": "ACCOMMODATION",
+        "place_id": "1563789",
+        "link": "https://www.tripadvisor.com/Hotel_Review-g294195-d1563789-Reviews-Tbilisi_Marriott_Hotel-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=1563789&tripadvisor_domain=www.tripadvisor.com",
+        "description": "The Tbilisi Marriott is an architectural landmark with a unique, circular design. But its century-old facade isn\u2019t the only glimpse of the past on offer. This is a hotel with stories to tell. Step into the scene-stealing Great Room, the restored ceiling playing tribute to the hotel\u2019s 1915 opening. Marble floors lead to the Parnas Cafe, where outdoor tables give front row seats onto Rustaveli Avenue. Enjoy in-house aged meats at Park Grill, or a nightcap at the Majestic Bar & Lounge. From deluxe to executive, junior to presidential, each of its 127 rooms and suites blends smooth modernity with Georgian style touches, for a truly boutique feel. Revitalise in the fitness centre. Relax in the Executive Lounge. Reconvene in the Ballroom. Or seek inspiration outside. The patio is a tranquil oasis in the heart of the city, while terraces and French balconies give a unique vantage point on the city.",
+        "rating": 4.4,
+        "reviews": 759,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/60/c5/exterior.jpg",
+        "highlighted_review": {
+          "text": "I loved Tbilisi,  especially this hotel!",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 296
+        }
+      },
+      {
+        "position": 23,
+        "title": "Tbilisi Holy Trinity Cathedral",
+        "place_type": "ATTRACTION",
+        "place_id": "2390146",
+        "link": "https://www.tripadvisor.com/Attraction_Review-g294195-d2390146-Reviews-Tbilisi_Holy_Trinity_Cathedral-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=2390146&tripadvisor_domain=www.tripadvisor.com",
+        "rating": 4.5,
+        "reviews": 1884,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/c6/52/41/excursion-in-tbilisihtml.jpg",
+        "highlighted_review": {
+          "text": "The Holy Trinity Cathedral, also known as Sameba, is one of Tbilisi\u2019s most",
+          "highlighted_texts": [
+            "Tbilisi\u2019s"
+          ],
+          "mention_count": 272
+        }
+      },
+      {
+        "position": 24,
+        "title": "Fabrika Hostel & Suites",
+        "place_type": "ACCOMMODATION",
+        "place_id": "10682233",
+        "link": "https://www.tripadvisor.com/Hotel_Review-g294195-d10682233-Reviews-Fabrika_Hostel_Suites-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=10682233&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Once an abandoned soviet sewing factory, Fabrika offers unforgettable experience on many different levels - comfort, design, cool events, amazing facilities and superb staff. This is where the creative pulse of the city can be traced and felt in every detail. Located in the old historical district of Tbilisi, Fabrika is close to some of the coolest attractions and hidden gems around the neighborhood. You can either walk through the winding backstreets to the main square of the city or use a metro, 5-7 minutes walk from our location. Other public transport is just a few minutes walking distance from the hostel. Fabrika Hostel & Suites offers 24 hours reception, security, fast and free Wi-Fi, air-conditioning, luggage room, private lockers, comfortable lobby, event calendar, maps/brochures, book exchange, laundry facilities, not to mention a cool rooftop and possibilities to do a pub crawl with locals. Our guests can taste our delicious breakfast at a minimal fee. All dorms are equipped",
+        "rating": 4.4,
+        "reviews": 712,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/0c/e5/20/fabrika-hostel-suites.jpg",
+        "highlighted_review": {
+          "text": "restaurants behind the hostel complex is one of the best that I saw in Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 173
+        }
+      },
+      {
+        "position": 25,
+        "title": "Filini",
+        "place_type": "EATERY",
+        "place_id": "2034975",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d2034975-Reviews-Filini-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=2034975&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Filini tempts from morning until late with its bright Mediterranean flavours and relaxed atmosphere. Sample an array of fresh and indulgent dishes during our breakfast buffet, or stop by during lunch and dinner for Filini \u00e0 la carte specials. Superior service and an extensive wine bar promise a memorable meal. During warmer months, enjoy your meal out on the terrace that provides scenic views of the river landscape and the city. Restaurant hosts live music evenings every Friday and Saturday.",
+        "rating": 4.7,
+        "reviews": 1291,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a0/06/71/caption.jpg",
+        "highlighted_review": {
+          "text": "atmosphere was warm and stylish, making it a perfect spot for dinner in Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 205
+        }
+      },
+      {
+        "position": 26,
+        "title": "Tbilisi:Evening Walking & Talking Tour with Wine & Boat Ride",
+        "place_type": "ATTRACTION_PRODUCT",
+        "place_id": "23636157",
+        "link": "https://www.tripadvisor.com/AttractionProductReview-g294195-d23636157-Tbilisi_Evening_Walking_Talking_Tour_with_Wine_Boat_Ride-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=23636157&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Make the most of your time in Tbilisi by joining this group walking tour, where your guide will give you a better overview of the city than any guidebook could, plus includes local wine tasting. You\u2019ll get plenty of steps in as you check out Rustaveli Avenue, see the landmarks in the Old City, take photos on the Bridge of Peace, and much more. At the end comes the delicious Georgian wine tasting session.",
+        "rating": 5,
+        "reviews": 436,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/30/01/ee/f2/caption.jpg",
+        "highlighted_review": {
+          "text": "We had a great time on our Tbilisi tour with Freddie and Kate!",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 228
+        }
+      },
+      {
+        "position": 27,
+        "title": "Hotel British House",
+        "place_type": "ACCOMMODATION",
+        "place_id": "610009",
+        "link": "https://www.tripadvisor.com/Hotel_Review-g294195-d610009-Reviews-Hotel_British_House-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=610009&tripadvisor_domain=www.tripadvisor.com",
+        "description": "The hotel is located 250 meters from the main street - Rustaveli Avenue, as well as Rustaveli Metro Station. Built in a classic Tbilisi style, British House Hotel features an original lobby and interior garden. The hotel offers fast free WIFI 100MB and free parking for our guests.",
+        "rating": 4.8,
+        "reviews": 688,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/5f/6f/59/hotel-british-house.jpg",
+        "highlighted_review": {
+          "text": "Perfect place in the very heart of Tbilisi. Amazingly cozy rooms.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 216
+        }
+      },
+      {
+        "position": 28,
+        "title": "Highlights of Caucasus Mountains-Jinvali,Ananuri,Gudauri,Kazbegi(Group tour)",
+        "place_type": "ATTRACTION_PRODUCT",
+        "place_id": "17684248",
+        "link": "https://www.tripadvisor.com/AttractionProductReview-g294195-d17684248-Highlights_of_Caucasus_Mountains_Jinvali_Ananuri_Gudauri_Kazbegi_Group_tour-Tbilis.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=17684248&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Tour the Caucasus Mountains safely, without having to drive yourself on scary roads, on this guided day tour. As you're driven into the mountains you'll stop at several places along the way, including the Jinvali Reservoir and Ananuri Fortified Castle Ensemble. At the Gudari Viewpoint you can opt to paraglide (extra fee). Be amazed by the architecture of the 14th-century Gergeti Trinity Church. A must for culture and nature enthusiasts.",
+        "rating": 5,
+        "reviews": 2233,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/31/f0/08/45/caption.jpg",
+        "highlighted_review": {
+          "text": "This was easily the best day trip from Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 219
+        }
+      },
+      {
+        "position": 29,
+        "title": "Courtyard by Marriott Tbilisi",
+        "place_type": "ACCOMMODATION",
+        "place_id": "299753",
+        "link": "https://www.tripadvisor.com/Hotel_Review-g294195-d299753-Reviews-Courtyard_by_Marriott_Tbilisi-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=299753&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Reward yourself with a memorable 4 star hotel experience in Georgia at the Courtyard Tbilisi located in Freedom Square in the heart of the city centre. Our premium hotel in Old Town, Tbilisi is within walking distance of many local attractions including the Georgian National Museum, Rustaveli Theatre, the State Opera House, superb art galleries, gardens and attractions. Our modern hotel accommodations feature plush bedding, high-speed Internet access, climate control, premium amenities, onsite parking and scenic views of Tbilisi city centre in upgraded rooms. Additional hotel perks include a fitness center and whirlpool, as well as a heated indoor pool. Make sure to visit our hotel restaurant, Brasserie Freedom, for delicious all day dining and stunning Freedom Square views. Or plan a catered event for up to 400 guests in one of our flexible event venue spaces.",
+        "rating": 4.2,
+        "reviews": 586,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2e/d4/a4/fc/exterior.jpg",
+        "highlighted_review": {
+          "text": "Would definitely recommend this place if you're staying in Tbilisi.",
+          "highlighted_texts": [
+            "Tbilisi."
+          ],
+          "mention_count": 201
+        }
+      },
+      {
+        "position": 30,
+        "title": "Old City Wall Restaurant & Wine Bar",
+        "place_type": "EATERY",
+        "place_id": "12214996",
+        "link": "https://www.tripadvisor.com/Restaurant_Review-g294195-d12214996-Reviews-Old_City_Wall_Restaurant_Wine_Bar-Tbilisi.html",
+        "serpapi_link": "https://serpapi.com/search.json?place_id=12214996&tripadvisor_domain=www.tripadvisor.com",
+        "description": "Located in Tbilisi Old City Centre. Authentic Georgian cuisine and live folk music.",
+        "rating": 4.6,
+        "reviews": 833,
+        "location": "Tbilisi, Georgia",
+        "thumbnail": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/4a/60/99/made-with-love.jpg",
+        "highlighted_review": {
+          "text": "Each time we come to Tbilisi we visit here at least once and it never lets",
+          "highlighted_texts": [
+            "Tbilisi"
+          ],
+          "mention_count": 95
+        }
+      }
+    ],
+    "serpapi_pagination": {
+      "next": "https://serpapi.com/search.json?engine=tripadvisor&limit=30&offset=30&q=Tbilisi&ssrc=a&tripadvisor_domain=www.tripadvisor.com"
+    }
+  }
